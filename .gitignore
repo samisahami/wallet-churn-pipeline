@@ -1,0 +1,19 @@
+# Python
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (never commit raw or large data)
+data_samples/raw_transactions.json
+data_samples/transactions_flat.json
+data_samples/*.parquet
+
+# dbt build artifacts
+wallet_churn_dbt/target/
+wallet_churn_dbt/dbt_packages/
+wallet_churn_dbt/logs/
+
+# OS
+.DS_Store
+Thumbs.db

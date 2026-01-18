@@ -1,0 +1,4242 @@
+[
+  {
+    "wallet_address": "0xBE0eB53F46cd790Cd13851d5EFF43D12404d33E8",
+    "tx_count": 1000,
+    "total_value": 375182402549.855,
+    "avg_tx_value": 375182402.5499,
+    "wallet_lifetime_days": 1501,
+    "days_since_last_tx": 1136,
+    "tx_per_day": 0.6662,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0E58e8993100F1CBe45376c410F97f4893d9BfCD",
+    "tx_count": 443,
+    "total_value": 1963960.7576,
+    "avg_tx_value": 4433.32,
+    "wallet_lifetime_days": 1121,
+    "days_since_last_tx": 25,
+    "tx_per_day": 0.3952,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a",
+    "tx_count": 1000,
+    "total_value": 364292.9693,
+    "avg_tx_value": 364.293,
+    "wallet_lifetime_days": 17,
+    "days_since_last_tx": 1211,
+    "tx_per_day": 58.8235,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x49048044D57e1C92A77f79988d21Fa8fAF74E97e",
+    "tx_count": 1000,
+    "total_value": 14035.2356,
+    "avg_tx_value": 14.0352,
+    "wallet_lifetime_days": 27,
+    "days_since_last_tx": 879,
+    "tx_per_day": 37.037,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503",
+    "tx_count": 1000,
+    "total_value": 4120586864.0157,
+    "avg_tx_value": 4120586.864,
+    "wallet_lifetime_days": 548,
+    "days_since_last_tx": 1134,
+    "tx_per_day": 1.8248,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xF977814e90dA44bFA03b6295A0616a897441acec",
+    "tx_count": 1000,
+    "total_value": 53837597754.3525,
+    "avg_tx_value": 53837597.7544,
+    "wallet_lifetime_days": 141,
+    "days_since_last_tx": 2235,
+    "tx_per_day": 7.0922,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xE92d1A43df510F82C66382592a047d288f85226f",
+    "tx_count": 1000,
+    "total_value": 8252845.5977,
+    "avg_tx_value": 8252.8456,
+    "wallet_lifetime_days": 725,
+    "days_since_last_tx": 363,
+    "tx_per_day": 1.3793,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcA8Fa8f0b631EcdB18Cda619C4Fc9d197c8aFfCa",
+    "tx_count": 1,
+    "total_value": 250.0,
+    "avg_tx_value": 250.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1089,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3BFC20f0B9aFcAcE800D73D2191166FF16540258",
+    "tx_count": 6,
+    "total_value": 31385.7691,
+    "avg_tx_value": 5230.9615,
+    "wallet_lifetime_days": 2102,
+    "days_since_last_tx": 932,
+    "tx_per_day": 0.0029,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x73AF3bcf944a6559933396c1577B257e2054D935",
+    "tx_count": 989,
+    "total_value": 2.7000000001270564e+24,
+    "avg_tx_value": 2.730030333798844e+21,
+    "wallet_lifetime_days": 1287,
+    "days_since_last_tx": 29,
+    "tx_per_day": 0.7685,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xA160cdAB225685dA1d56aA342Ad8841c3b53F291",
+    "tx_count": 1000,
+    "total_value": 55199.91,
+    "avg_tx_value": 55.1999,
+    "wallet_lifetime_days": 206,
+    "days_since_last_tx": 1998,
+    "tx_per_day": 4.8544,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9f1799Fb47b1514f453BcEbbC37ecFe883756e83",
+    "tx_count": 7,
+    "total_value": 0.07,
+    "avg_tx_value": 0.01,
+    "wallet_lifetime_days": 11,
+    "days_since_last_tx": 130,
+    "tx_per_day": 0.6364,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3FDA67f7583380E67ef93072294a7fAc882FD7E7",
+    "tx_count": 1000,
+    "total_value": 3914052.5407,
+    "avg_tx_value": 3914.0525,
+    "wallet_lifetime_days": 49,
+    "days_since_last_tx": 2614,
+    "tx_per_day": 20.4082,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x745DAA146934B27e3f0b6bff1a6e36b9B90fb131",
+    "tx_count": 1000,
+    "total_value": 1684928.7742,
+    "avg_tx_value": 1684.9288,
+    "wallet_lifetime_days": 8,
+    "days_since_last_tx": 2166,
+    "tx_per_day": 125.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1E0447b19BB6EcFdAe1e4AE1694b0C3659614e4e",
+    "tx_count": 1000,
+    "total_value": 2354671.3692,
+    "avg_tx_value": 2354.6714,
+    "wallet_lifetime_days": 23,
+    "days_since_last_tx": 2437,
+    "tx_per_day": 43.4783,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3A306a399085F3460BbcB5b77015Ab33806A10d5",
+    "tx_count": 1000,
+    "total_value": 88305.6736,
+    "avg_tx_value": 88.3057,
+    "wallet_lifetime_days": 53,
+    "days_since_last_tx": 2543,
+    "tx_per_day": 18.8679,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x52fc6455F258760705e70F70160b06619BFe0ADb",
+    "tx_count": 736,
+    "total_value": 1.6468823889173837e+20,
+    "avg_tx_value": 2.2376119414638365e+17,
+    "wallet_lifetime_days": 207,
+    "days_since_last_tx": 2003,
+    "tx_per_day": 3.5556,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x13240b97c40D7E306cEDf3adc9cB057CeC74c361",
+    "tx_count": 284,
+    "total_value": 805.186,
+    "avg_tx_value": 2.8352,
+    "wallet_lifetime_days": 272,
+    "days_since_last_tx": 1952,
+    "tx_per_day": 1.0441,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd3EBA712988df0F8A7e5073719A40cE4cbF60b33",
+    "tx_count": 1000,
+    "total_value": 9947.9051,
+    "avg_tx_value": 9.9479,
+    "wallet_lifetime_days": 101,
+    "days_since_last_tx": 2123,
+    "tx_per_day": 9.901,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8dfcB49766c0296E4373A0300b52C3637614Db59",
+    "tx_count": 396,
+    "total_value": 938.6721,
+    "avg_tx_value": 2.3704,
+    "wallet_lifetime_days": 185,
+    "days_since_last_tx": 2014,
+    "tx_per_day": 2.1405,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x20eF0c900F8E7EC3a1A89a761f0670Ae9E3dD709",
+    "tx_count": 29,
+    "total_value": 106.726,
+    "avg_tx_value": 3.6802,
+    "wallet_lifetime_days": 206,
+    "days_since_last_tx": 1987,
+    "tx_per_day": 0.1408,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x17E5545B11b468072283Cee1F066a059Fb0dbF24",
+    "tx_count": 990,
+    "total_value": 1405388.4605,
+    "avg_tx_value": 1419.5843,
+    "wallet_lifetime_days": 571,
+    "days_since_last_tx": 22,
+    "tx_per_day": 1.7338,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xb61a16BDa6D61D9b8AD493BF05962c5b98D1712F",
+    "tx_count": 7,
+    "total_value": 15025000.003,
+    "avg_tx_value": 2146428.5719,
+    "wallet_lifetime_days": 78,
+    "days_since_last_tx": 30,
+    "tx_per_day": 0.0897,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x8D05d9924fe935BD533a844271a1B2078EaE6FcF",
+    "tx_count": 21,
+    "total_value": 549997.1,
+    "avg_tx_value": 26190.3381,
+    "wallet_lifetime_days": 114,
+    "days_since_last_tx": 29,
+    "tx_per_day": 0.1842,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xA023f08c70A23aBc7EdFc5B6b5E171d78dFc947e",
+    "tx_count": 1000,
+    "total_value": 40446199051494.234,
+    "avg_tx_value": 40446199051.4942,
+    "wallet_lifetime_days": 209,
+    "days_since_last_tx": 240,
+    "tx_per_day": 4.7847,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xC882b111A75C0c657fC507C04FbFcD2cC984F071",
+    "tx_count": 1000,
+    "total_value": 299168904851475.06,
+    "avg_tx_value": 299168904851.475,
+    "wallet_lifetime_days": 533,
+    "days_since_last_tx": 687,
+    "tx_per_day": 1.8762,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xaa2AA15D77b41E151e17f3A61cBC68DB4da72A90",
+    "tx_count": 14,
+    "total_value": 424810.0288,
+    "avg_tx_value": 30343.5735,
+    "wallet_lifetime_days": 120,
+    "days_since_last_tx": 30,
+    "tx_per_day": 0.1167,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x98ADeF6F2ac8572ec48965509d69A8Dd5E8BbA9D",
+    "tx_count": 1000,
+    "total_value": 6601400541.8538,
+    "avg_tx_value": 6601400.5419,
+    "wallet_lifetime_days": 735,
+    "days_since_last_tx": 309,
+    "tx_per_day": 1.3605,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x551da09543002dc563e3ec870f96b7893233a72e",
+    "tx_count": 27,
+    "total_value": 999356152.7475,
+    "avg_tx_value": 37013190.8425,
+    "wallet_lifetime_days": 493,
+    "days_since_last_tx": 780,
+    "tx_per_day": 0.0548,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6e971ee23dc7f4f8861888011aebc65f35321ba9",
+    "tx_count": 3,
+    "total_value": 46883.8586,
+    "avg_tx_value": 15627.9529,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1957,
+    "tx_per_day": 3.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0394c7e0b34fda522cd1d668b9a08e63c84412f9",
+    "tx_count": 149,
+    "total_value": 17287513.8398,
+    "avg_tx_value": 116023.5828,
+    "wallet_lifetime_days": 1682,
+    "days_since_last_tx": 30,
+    "tx_per_day": 0.0886,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x37fc1c981c9d943ba37beed5b0a945f0e35020c9",
+    "tx_count": 318,
+    "total_value": 17699614845695.67,
+    "avg_tx_value": 55659166181.4329,
+    "wallet_lifetime_days": 1403,
+    "days_since_last_tx": 356,
+    "tx_per_day": 0.2267,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x577a08bfc3876afd02050fb674144b942788e3b5",
+    "tx_count": 1,
+    "total_value": 38.9996,
+    "avg_tx_value": 38.9996,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 3012,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfe9c81f9b9ea46c0dc83c430af0cbce4ef9e2ad3",
+    "tx_count": 607,
+    "total_value": 2642344310809.6514,
+    "avg_tx_value": 4353120775.6337,
+    "wallet_lifetime_days": 1338,
+    "days_since_last_tx": 370,
+    "tx_per_day": 0.4537,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x94f3fda09a27c1ef34cf8b18ecb523c3f8cf1a8a",
+    "tx_count": 1000,
+    "total_value": 1.4218711922719398e+18,
+    "avg_tx_value": 1421871192271939.8,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 884,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x510b0068c0756bbefcbaffb6567e467d661291fe",
+    "tx_count": 1000,
+    "total_value": 1.79114890884475e+20,
+    "avg_tx_value": 1.79114890884475e+17,
+    "wallet_lifetime_days": 457,
+    "days_since_last_tx": 1698,
+    "tx_per_day": 2.1882,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbcb7e1a3aeedb791bf826f1b276f400e2786ca76",
+    "tx_count": 95,
+    "total_value": 4644.6292,
+    "avg_tx_value": 48.8908,
+    "wallet_lifetime_days": 2176,
+    "days_since_last_tx": 38,
+    "tx_per_day": 0.0437,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xff536328697859ec41b4f6a7e3a9cc3f372b0760",
+    "tx_count": 519,
+    "total_value": 1.0743968947368544e+18,
+    "avg_tx_value": 2070128891593168.5,
+    "wallet_lifetime_days": 2600,
+    "days_since_last_tx": 524,
+    "tx_per_day": 0.1996,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x289c23cd7cacafd4bfee6344ef376fa14f1bf42d",
+    "tx_count": 1000,
+    "total_value": 2.1343772860623987e+19,
+    "avg_tx_value": 2.1343772860623988e+16,
+    "wallet_lifetime_days": 1109,
+    "days_since_last_tx": 1836,
+    "tx_per_day": 0.9017,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x87e85da80725508efd6925fa9c67e8853bfc6b31",
+    "tx_count": 36,
+    "total_value": 5668239720.9675,
+    "avg_tx_value": 157451103.3602,
+    "wallet_lifetime_days": 792,
+    "days_since_last_tx": 764,
+    "tx_per_day": 0.0455,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x49b91963d40c2f0ec757f7bdad01bf4b26984d7a",
+    "tx_count": 1000,
+    "total_value": 1.4167500134668826e+18,
+    "avg_tx_value": 1416750013466882.5,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 910,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6be9fa484fa24fedb0369b6ccb343f9c3a621026",
+    "tx_count": 1000,
+    "total_value": 2.920629393143705e+16,
+    "avg_tx_value": 29206293931437.047,
+    "wallet_lifetime_days": 691,
+    "days_since_last_tx": 2469,
+    "tx_per_day": 1.4472,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcc0404564711cfdd538dde292becde28e43601fc",
+    "tx_count": 90,
+    "total_value": 127468.741,
+    "avg_tx_value": 1416.3193,
+    "wallet_lifetime_days": 50,
+    "days_since_last_tx": 345,
+    "tx_per_day": 1.8,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x58e92c4128a4c231e3af7daf205682e37689a759",
+    "tx_count": 54,
+    "total_value": 40805.818,
+    "avg_tx_value": 755.6633,
+    "wallet_lifetime_days": 162,
+    "days_since_last_tx": 2282,
+    "tx_per_day": 0.3333,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xe0ef731f89d88a0f29350987945e80e0999b8894",
+    "tx_count": 3,
+    "total_value": 0.0116,
+    "avg_tx_value": 0.0039,
+    "wallet_lifetime_days": 1161,
+    "days_since_last_tx": 267,
+    "tx_per_day": 0.0026,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc28e21b841487f6a50acbae4d09d7f4d4d012bcc",
+    "tx_count": 604,
+    "total_value": 1.9255684586900956e+16,
+    "avg_tx_value": 31880272494869.133,
+    "wallet_lifetime_days": 766,
+    "days_since_last_tx": 1527,
+    "tx_per_day": 0.7885,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x78b3a256061ce71fa266c2442ed08c04a784a7dd",
+    "tx_count": 104,
+    "total_value": 1030.925,
+    "avg_tx_value": 9.9127,
+    "wallet_lifetime_days": 1867,
+    "days_since_last_tx": 440,
+    "tx_per_day": 0.0557,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xab3b78d0d999930863d092ac1dbed66fe9fdec37",
+    "tx_count": 1000,
+    "total_value": 3.6317262439620526e+18,
+    "avg_tx_value": 3631726243962052.5,
+    "wallet_lifetime_days": 569,
+    "days_since_last_tx": 2363,
+    "tx_per_day": 1.7575,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x76970deca7924ce51fd1502fd005ad5c681d1b65",
+    "tx_count": 315,
+    "total_value": 1.4313845731007504e+17,
+    "avg_tx_value": 454407800984365.2,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 890,
+    "tx_per_day": 315.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x06dedafeac71f441f8a87eebe6d650fe2dbf33e5",
+    "tx_count": 7,
+    "total_value": 92162.7719,
+    "avg_tx_value": 13166.1103,
+    "wallet_lifetime_days": 85,
+    "days_since_last_tx": 1036,
+    "tx_per_day": 0.0824,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8de1e4e277398a7727bb4aa91ab419a26bdc42c2",
+    "tx_count": 3,
+    "total_value": 0.3272,
+    "avg_tx_value": 0.1091,
+    "wallet_lifetime_days": 28,
+    "days_since_last_tx": 2631,
+    "tx_per_day": 0.1071,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xeabf7dec6253f3ddbcb70a93fa9a5d6470f6cf74",
+    "tx_count": 510,
+    "total_value": 5.382396495284082e+18,
+    "avg_tx_value": 1.0553718618204082e+16,
+    "wallet_lifetime_days": 3050,
+    "days_since_last_tx": 44,
+    "tx_per_day": 0.1672,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x06f8f66648cac8bd39e9cce036094ef4dd1b504b",
+    "tx_count": 556,
+    "total_value": 2.2759290202197786e+18,
+    "avg_tx_value": 4093397518380896.5,
+    "wallet_lifetime_days": 547,
+    "days_since_last_tx": 1753,
+    "tx_per_day": 1.0165,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfd7f766933041a77c7321244f08df3b5ab091520",
+    "tx_count": 37,
+    "total_value": 79705.0833,
+    "avg_tx_value": 2154.1914,
+    "wallet_lifetime_days": 476,
+    "days_since_last_tx": 277,
+    "tx_per_day": 0.0777,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x13271adf8c9753547b98501b684ad892b33dc0b7",
+    "tx_count": 1000,
+    "total_value": 2711170206.4017,
+    "avg_tx_value": 2711170.2064,
+    "wallet_lifetime_days": 57,
+    "days_since_last_tx": 330,
+    "tx_per_day": 17.5439,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x70cf494ca495498008abcb09af3c1209d404f3f9",
+    "tx_count": 181,
+    "total_value": 6266648292.2691,
+    "avg_tx_value": 34622366.2556,
+    "wallet_lifetime_days": 2476,
+    "days_since_last_tx": 102,
+    "tx_per_day": 0.0731,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb3e3e8588032ce0da6772a0c18c70460128f57b6",
+    "tx_count": 39,
+    "total_value": 24285.5264,
+    "avg_tx_value": 622.7058,
+    "wallet_lifetime_days": 1089,
+    "days_since_last_tx": 205,
+    "tx_per_day": 0.0358,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2c63b830add926fdb888addee6a29c6b2b26450b",
+    "tx_count": 927,
+    "total_value": 8178735378.3845,
+    "avg_tx_value": 8822799.7609,
+    "wallet_lifetime_days": 1349,
+    "days_since_last_tx": 37,
+    "tx_per_day": 0.6872,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xb914d7589cfe3390faafb6932864fbb5edb27684",
+    "tx_count": 43,
+    "total_value": 7.140950264894048e+18,
+    "avg_tx_value": 1.660686108114895e+17,
+    "wallet_lifetime_days": 1440,
+    "days_since_last_tx": 156,
+    "tx_per_day": 0.0299,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7565976a34efed9c0b70e962e24f183b592cb5f8",
+    "tx_count": 78,
+    "total_value": 82.011,
+    "avg_tx_value": 1.0514,
+    "wallet_lifetime_days": 648,
+    "days_since_last_tx": 2402,
+    "tx_per_day": 0.1204,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xce5033620038e49f15eb27d08704ff6a44294d68",
+    "tx_count": 1000,
+    "total_value": 1.8667819526699638e+18,
+    "avg_tx_value": 1866781952669963.8,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 900,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x07316f4903fa7156b8ddb12c86af47809676a679",
+    "tx_count": 1000,
+    "total_value": 1354.0374,
+    "avg_tx_value": 1.354,
+    "wallet_lifetime_days": 764,
+    "days_since_last_tx": 434,
+    "tx_per_day": 1.3089,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x082a17a3e4d1e744ee31f739f33b7352372b1b36",
+    "tx_count": 6,
+    "total_value": 1.0781,
+    "avg_tx_value": 0.1797,
+    "wallet_lifetime_days": 759,
+    "days_since_last_tx": 1421,
+    "tx_per_day": 0.0079,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3f39574a3c6a82d01769099f3d9d954d831c2a64",
+    "tx_count": 17,
+    "total_value": 6.128550029813052e+17,
+    "avg_tx_value": 3.605029429301795e+16,
+    "wallet_lifetime_days": 12,
+    "days_since_last_tx": 2074,
+    "tx_per_day": 1.4167,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x881690fded4dafc47c18dee1e8aca1584f2b2d9f",
+    "tx_count": 86,
+    "total_value": 13817.4603,
+    "avg_tx_value": 160.6681,
+    "wallet_lifetime_days": 1188,
+    "days_since_last_tx": 322,
+    "tx_per_day": 0.0724,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6229eb9fba7dba02bb9ef1e8b7deb054d9d89c50",
+    "tx_count": 448,
+    "total_value": 26014490.0338,
+    "avg_tx_value": 58068.0581,
+    "wallet_lifetime_days": 2632,
+    "days_since_last_tx": 26,
+    "tx_per_day": 0.1702,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xa2d54f80f4c8e6253ed5b597ec2e32c3e1174362",
+    "tx_count": 5,
+    "total_value": 599.3746,
+    "avg_tx_value": 119.8749,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2653,
+    "tx_per_day": 5.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2e2dc7dd191f8aa6994368b3482a4ff9791ae2b4",
+    "tx_count": 168,
+    "total_value": 10000000091566.498,
+    "avg_tx_value": 59523810068.8482,
+    "wallet_lifetime_days": 2885,
+    "days_since_last_tx": 28,
+    "tx_per_day": 0.0582,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x40b38765696e3d5d8d9d834d8aad4bb6e418e489",
+    "tx_count": 1000,
+    "total_value": 4826083676019.663,
+    "avg_tx_value": 4826083676.0197,
+    "wallet_lifetime_days": 613,
+    "days_since_last_tx": 364,
+    "tx_per_day": 1.6313,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3e0c7701023bc7c45200c5ae03c11a137de0718f",
+    "tx_count": 1000,
+    "total_value": 2084080.4713,
+    "avg_tx_value": 2084.0805,
+    "wallet_lifetime_days": 161,
+    "days_since_last_tx": 218,
+    "tx_per_day": 6.2112,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0e17eed28727f05fb60c65acefd531d0c467a269",
+    "tx_count": 8,
+    "total_value": 69.1748,
+    "avg_tx_value": 8.6469,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2631,
+    "tx_per_day": 8.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd47ffc40c4838b8d3aac93861c03092b20b2bf1d",
+    "tx_count": 68,
+    "total_value": 2.0700641167837335e+18,
+    "avg_tx_value": 3.0442119364466668e+16,
+    "wallet_lifetime_days": 2069,
+    "days_since_last_tx": 163,
+    "tx_per_day": 0.0329,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa05d28227a349cd18adf4121cd70c605e0cbcc7b",
+    "tx_count": 2,
+    "total_value": 110.001,
+    "avg_tx_value": 55.0005,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2028,
+    "tx_per_day": 2.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbf83e6e40162c655f2ded3431b7b31307275ac95",
+    "tx_count": 1000,
+    "total_value": 3672341.8159,
+    "avg_tx_value": 3672.3418,
+    "wallet_lifetime_days": 996,
+    "days_since_last_tx": 2029,
+    "tx_per_day": 1.004,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x95ba4cf87d6723ad9c0db21737d862be80e93911",
+    "tx_count": 1000,
+    "total_value": 14734399.925,
+    "avg_tx_value": 14734.3999,
+    "wallet_lifetime_days": 1613,
+    "days_since_last_tx": 1141,
+    "tx_per_day": 0.62,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x04cf9bf61b1e1c6b9449584837446480a2a59d72",
+    "tx_count": 1000,
+    "total_value": 4.5584,
+    "avg_tx_value": 0.0046,
+    "wallet_lifetime_days": 3,
+    "days_since_last_tx": 584,
+    "tx_per_day": 333.3333,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x25763b7f6248bf02e269038c58726460851dc65d",
+    "tx_count": 287,
+    "total_value": 157120.0982,
+    "avg_tx_value": 547.4568,
+    "wallet_lifetime_days": 2109,
+    "days_since_last_tx": 960,
+    "tx_per_day": 0.1361,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa1df0c3cd503e20a1eeb93af85fa2b40a38cd5ef",
+    "tx_count": 18,
+    "total_value": 2339.0665,
+    "avg_tx_value": 129.9481,
+    "wallet_lifetime_days": 10,
+    "days_since_last_tx": 2163,
+    "tx_per_day": 1.8,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9b40a2c7351354c467f22d0029b4d9cee7f190c9",
+    "tx_count": 60,
+    "total_value": 6.692912002358693e+17,
+    "avg_tx_value": 1.1154853337264488e+16,
+    "wallet_lifetime_days": 405,
+    "days_since_last_tx": 2082,
+    "tx_per_day": 0.1481,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0",
+    "tx_count": 351,
+    "total_value": 11493482.6258,
+    "avg_tx_value": 32744.9647,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1383,
+    "tx_per_day": 351.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa6dbdafa187eddc4d7a9d8e6b9a2d3f46ee30d24",
+    "tx_count": 1,
+    "total_value": 2.0,
+    "avg_tx_value": 2.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 739,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x557347483e3f6157358e9d00f51a964c770fc1d3",
+    "tx_count": 206,
+    "total_value": 7167.5814,
+    "avg_tx_value": 34.7941,
+    "wallet_lifetime_days": 371,
+    "days_since_last_tx": 22,
+    "tx_per_day": 0.5553,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x4a8918f1dc799610d45d13ba7d98d1870a537484",
+    "tx_count": 368,
+    "total_value": 6.003530258985182e+18,
+    "avg_tx_value": 1.6313940921155386e+16,
+    "wallet_lifetime_days": 2152,
+    "days_since_last_tx": 151,
+    "tx_per_day": 0.171,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5a2d662d11e7904b216831daf5b87b7aedd37f09",
+    "tx_count": 7,
+    "total_value": 0.0009,
+    "avg_tx_value": 0.0001,
+    "wallet_lifetime_days": 2,
+    "days_since_last_tx": 42,
+    "tx_per_day": 3.5,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x9b0c45d46d386cedd98873168c36efd0dcba8d46",
+    "tx_count": 1000,
+    "total_value": 1114807251.3362,
+    "avg_tx_value": 1114807.2513,
+    "wallet_lifetime_days": 803,
+    "days_since_last_tx": 1249,
+    "tx_per_day": 1.2453,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xca863e64bbfaa0beed764c379470dd49eef7b9fb",
+    "tx_count": 425,
+    "total_value": 149341058.6449,
+    "avg_tx_value": 351390.7262,
+    "wallet_lifetime_days": 1355,
+    "days_since_last_tx": 75,
+    "tx_per_day": 0.3137,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x756b86fd69914db92229c07c7393d7d9948fed33",
+    "tx_count": 1000,
+    "total_value": 23043208869.4411,
+    "avg_tx_value": 23043208.8694,
+    "wallet_lifetime_days": 586,
+    "days_since_last_tx": 689,
+    "tx_per_day": 1.7065,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0436086baa9e32fb936ce130d5d1e94306fefa88",
+    "tx_count": 1,
+    "total_value": 399.7563,
+    "avg_tx_value": 399.7563,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1983,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x4e9ce36e442e55ecd9025b9a6e0d88485d628a67",
+    "tx_count": 1000,
+    "total_value": 24473601308.7063,
+    "avg_tx_value": 24473601.3087,
+    "wallet_lifetime_days": 96,
+    "days_since_last_tx": 2512,
+    "tx_per_day": 10.4167,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x836d31d3074aee0d95d71f210e7749afff2fdc90",
+    "tx_count": 1,
+    "total_value": 284.9308,
+    "avg_tx_value": 284.9308,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2123,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa270697a7e1cae9f5a8584adc36f7de94702644c",
+    "tx_count": 20,
+    "total_value": 962389.0038,
+    "avg_tx_value": 48119.4502,
+    "wallet_lifetime_days": 249,
+    "days_since_last_tx": 1937,
+    "tx_per_day": 0.0803,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfff7830f9ddb9d48d9e213354c92604ef7e1298b",
+    "tx_count": 246,
+    "total_value": 1026078.7224,
+    "avg_tx_value": 4171.0517,
+    "wallet_lifetime_days": 1429,
+    "days_since_last_tx": 1710,
+    "tx_per_day": 0.1721,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5f42e271f0eaec7b105193dcc0bf2b0b216b466e",
+    "tx_count": 304,
+    "total_value": 8.079486100973327e+17,
+    "avg_tx_value": 2657725691109647.0,
+    "wallet_lifetime_days": 1524,
+    "days_since_last_tx": 710,
+    "tx_per_day": 0.1995,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8b2045c7a0d4cbb789e0563dcc9daa9437208a8c",
+    "tx_count": 11,
+    "total_value": 0.4096,
+    "avg_tx_value": 0.0372,
+    "wallet_lifetime_days": 14,
+    "days_since_last_tx": 880,
+    "tx_per_day": 0.7857,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6df7fc2e8ad50ada369fdc82a550413e19cb0a74",
+    "tx_count": 1,
+    "total_value": 99.8887,
+    "avg_tx_value": 99.8887,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2136,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcffb38e7e1eb517ca95428d8de96ca58b6290703",
+    "tx_count": 13,
+    "total_value": 55.9326,
+    "avg_tx_value": 4.3025,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 328,
+    "tx_per_day": 13.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8644cef860e2714c499d4a675d491b36c8a1fff7",
+    "tx_count": 197,
+    "total_value": 53473.3321,
+    "avg_tx_value": 271.4382,
+    "wallet_lifetime_days": 125,
+    "days_since_last_tx": 248,
+    "tx_per_day": 1.576,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7dafba1d69f6c01ae7567ffd7b046ca03b706f83",
+    "tx_count": 1000,
+    "total_value": 7322903856589.798,
+    "avg_tx_value": 7322903856.5898,
+    "wallet_lifetime_days": 68,
+    "days_since_last_tx": 44,
+    "tx_per_day": 14.7059,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x3836052335f243d1a3596b582cd869b530b13bd3",
+    "tx_count": 70,
+    "total_value": 1382.1301,
+    "avg_tx_value": 19.7447,
+    "wallet_lifetime_days": 1173,
+    "days_since_last_tx": 88,
+    "tx_per_day": 0.0597,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x009b6817807c332b9445f5c9cf2ac94631fe876e",
+    "tx_count": 998,
+    "total_value": 5.448204892139594e+19,
+    "avg_tx_value": 5.4591231384164264e+16,
+    "wallet_lifetime_days": 2830,
+    "days_since_last_tx": 76,
+    "tx_per_day": 0.3527,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x4725c94999fbee3665f0dd8671160e0d810a5f3a",
+    "tx_count": 16,
+    "total_value": 3.802274567590309e+18,
+    "avg_tx_value": 2.376421604743943e+17,
+    "wallet_lifetime_days": 425,
+    "days_since_last_tx": 2062,
+    "tx_per_day": 0.0376,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x46aa3346029f87433fab48c0e89d789354397441",
+    "tx_count": 62,
+    "total_value": 1311.5411,
+    "avg_tx_value": 21.1539,
+    "wallet_lifetime_days": 974,
+    "days_since_last_tx": 30,
+    "tx_per_day": 0.0637,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xf7faf6c9a38d714b787034fdc37028ee815d4dbe",
+    "tx_count": 120,
+    "total_value": 6939045.3337,
+    "avg_tx_value": 57825.3778,
+    "wallet_lifetime_days": 1543,
+    "days_since_last_tx": 1153,
+    "tx_per_day": 0.0778,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x53d7043fb8a7d162eba5d9bb374868595d8d203b",
+    "tx_count": 9,
+    "total_value": 163.6011,
+    "avg_tx_value": 18.1779,
+    "wallet_lifetime_days": 927,
+    "days_since_last_tx": 643,
+    "tx_per_day": 0.0097,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb3eafb9f40b8e568b998324dcdfc73b5eabb39b7",
+    "tx_count": 326,
+    "total_value": 8.758298796654301e+17,
+    "avg_tx_value": 2686594722900092.5,
+    "wallet_lifetime_days": 2734,
+    "days_since_last_tx": 118,
+    "tx_per_day": 0.1192,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0ad9fb61a07bac25625382b63693644497f1b204",
+    "tx_count": 1000,
+    "total_value": 8466.1361,
+    "avg_tx_value": 8.4661,
+    "wallet_lifetime_days": 607,
+    "days_since_last_tx": 2510,
+    "tx_per_day": 1.6474,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb1aabcdd2b5c203d03a2e9da51ea8d0ff5a96994",
+    "tx_count": 71,
+    "total_value": 74501393631.1391,
+    "avg_tx_value": 1049315403.2555,
+    "wallet_lifetime_days": 156,
+    "days_since_last_tx": 43,
+    "tx_per_day": 0.4551,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x4d94003301291785fddce11ed1cf52fc4c8cb154",
+    "tx_count": 267,
+    "total_value": 2.34131410325856e+18,
+    "avg_tx_value": 8768966678871011.0,
+    "wallet_lifetime_days": 752,
+    "days_since_last_tx": 1511,
+    "tx_per_day": 0.3551,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x042a135bd342910ad7f67bbda74e3fd4125d1272",
+    "tx_count": 1000,
+    "total_value": 1.4990756376404336e+24,
+    "avg_tx_value": 1.4990756376404335e+21,
+    "wallet_lifetime_days": 1267,
+    "days_since_last_tx": 1614,
+    "tx_per_day": 0.7893,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcdea1707e6d6c98ee874ee587c1503f63e069b90",
+    "tx_count": 5,
+    "total_value": 15.2462,
+    "avg_tx_value": 3.0492,
+    "wallet_lifetime_days": 2,
+    "days_since_last_tx": 324,
+    "tx_per_day": 2.5,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd289986c25ae3f4644949e25bc369e9d8e0caead",
+    "tx_count": 1000,
+    "total_value": 1.4282768662684635e+19,
+    "avg_tx_value": 1.4282768662684636e+16,
+    "wallet_lifetime_days": 1525,
+    "days_since_last_tx": 810,
+    "tx_per_day": 0.6557,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x46340b20830761efd32832a74d7169b29feb9758",
+    "tx_count": 1000,
+    "total_value": 83154.1218,
+    "avg_tx_value": 83.1541,
+    "wallet_lifetime_days": 21,
+    "days_since_last_tx": 2571,
+    "tx_per_day": 47.619,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x33350f9ffe031ca593442a189b3bc7a1ea05b3c1",
+    "tx_count": 35,
+    "total_value": 21.1428,
+    "avg_tx_value": 0.6041,
+    "wallet_lifetime_days": 712,
+    "days_since_last_tx": 1414,
+    "tx_per_day": 0.0492,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2cdbad7b5704f8f0034a216d1b3b7522982e8bf7",
+    "tx_count": 720,
+    "total_value": 1.7578975436295124e+18,
+    "avg_tx_value": 2441524366152100.5,
+    "wallet_lifetime_days": 1408,
+    "days_since_last_tx": 809,
+    "tx_per_day": 0.5114,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x97889c952368b5ae0def08eb845ec1ca212b6f2d",
+    "tx_count": 33,
+    "total_value": 15863153.2757,
+    "avg_tx_value": 480701.6144,
+    "wallet_lifetime_days": 505,
+    "days_since_last_tx": 2012,
+    "tx_per_day": 0.0653,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x4f0d2ed5a7ce720e23181251cfe25244021eeb30",
+    "tx_count": 41,
+    "total_value": 1219.2389,
+    "avg_tx_value": 29.7375,
+    "wallet_lifetime_days": 708,
+    "days_since_last_tx": 553,
+    "tx_per_day": 0.0579,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc12a47a890c2d1b0eac23b46c117c895333c2ea5",
+    "tx_count": 17,
+    "total_value": 1424126.6372,
+    "avg_tx_value": 83772.1551,
+    "wallet_lifetime_days": 1235,
+    "days_since_last_tx": 1470,
+    "tx_per_day": 0.0138,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb02c098c73a1e8eb8250fff0ff1124923fbf8618",
+    "tx_count": 10,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 31,
+    "days_since_last_tx": 22,
+    "tx_per_day": 0.3226,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x45afab7c0b8b145c3060ff8d369e6fbb77aaa61b",
+    "tx_count": 31,
+    "total_value": 1286.8347,
+    "avg_tx_value": 41.5108,
+    "wallet_lifetime_days": 38,
+    "days_since_last_tx": 1127,
+    "tx_per_day": 0.8158,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6a94f342ab64d03111aae025a965243a039a25f2",
+    "tx_count": 960,
+    "total_value": 4.92487040276268e+17,
+    "avg_tx_value": 513007333621112.56,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 886,
+    "tx_per_day": 960.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x65fcb01940cceb45d9d69d875f79a1c5ee518193",
+    "tx_count": 106,
+    "total_value": 20133.4347,
+    "avg_tx_value": 189.9381,
+    "wallet_lifetime_days": 68,
+    "days_since_last_tx": 349,
+    "tx_per_day": 1.5588,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1a97bfb25a115031ee01439678f70b2d4171fe4f",
+    "tx_count": 1000,
+    "total_value": 8372.5094,
+    "avg_tx_value": 8.3725,
+    "wallet_lifetime_days": 68,
+    "days_since_last_tx": 789,
+    "tx_per_day": 14.7059,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9c547b3593788b54701509627c9daa0255cd0e6c",
+    "tx_count": 128,
+    "total_value": 40539.667,
+    "avg_tx_value": 316.7161,
+    "wallet_lifetime_days": 1172,
+    "days_since_last_tx": 40,
+    "tx_per_day": 0.1092,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xc6ba08425075715cf76fd526ce62602879046323",
+    "tx_count": 22,
+    "total_value": 105245.474,
+    "avg_tx_value": 4783.8852,
+    "wallet_lifetime_days": 858,
+    "days_since_last_tx": 1715,
+    "tx_per_day": 0.0256,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x44b69168abe2a8ab9d4d4a2ce0e410437524ce94",
+    "tx_count": 9,
+    "total_value": 61602.0764,
+    "avg_tx_value": 6844.6752,
+    "wallet_lifetime_days": 121,
+    "days_since_last_tx": 1874,
+    "tx_per_day": 0.0744,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0da3e8ad6fb75122cde138eddfd3c25833c7c790",
+    "tx_count": 68,
+    "total_value": 2.1446160165362445e+18,
+    "avg_tx_value": 3.153847083141536e+16,
+    "wallet_lifetime_days": 2025,
+    "days_since_last_tx": 611,
+    "tx_per_day": 0.0336,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xefd603747ba4834c84eb3ea3b1674bbcd4d3c6d8",
+    "tx_count": 158,
+    "total_value": 2.58621377618499e+18,
+    "avg_tx_value": 1.6368441621423988e+16,
+    "wallet_lifetime_days": 2009,
+    "days_since_last_tx": 551,
+    "tx_per_day": 0.0786,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1a6a80a836b3b7dee660fbc7a5ea1ded367f2d24",
+    "tx_count": 1000,
+    "total_value": 22015.6011,
+    "avg_tx_value": 22.0156,
+    "wallet_lifetime_days": 41,
+    "days_since_last_tx": 696,
+    "tx_per_day": 24.3902,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9ea17078cee0372cb80e69ea47a6f99d301f69da",
+    "tx_count": 110,
+    "total_value": 76000000011488.33,
+    "avg_tx_value": 690909091013.5303,
+    "wallet_lifetime_days": 318,
+    "days_since_last_tx": 2422,
+    "tx_per_day": 0.3459,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7dabf2378f70b1106a20135d5102903e31eb6f83",
+    "tx_count": 19,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 11,
+    "days_since_last_tx": 29,
+    "tx_per_day": 1.7273,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x28c6a861f62fd5939f82f751eab5fed7012fbb9d",
+    "tx_count": 29,
+    "total_value": 4.7837634491375985e+19,
+    "avg_tx_value": 1.649573603150896e+18,
+    "wallet_lifetime_days": 1092,
+    "days_since_last_tx": 1086,
+    "tx_per_day": 0.0266,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbaf5cb640e4b2f91d9d745e491f8b5d4e0e55dc2",
+    "tx_count": 64,
+    "total_value": 1701.2962,
+    "avg_tx_value": 26.5828,
+    "wallet_lifetime_days": 754,
+    "days_since_last_tx": 476,
+    "tx_per_day": 0.0849,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xac75b73394c329376c214663d92156afa864a77f",
+    "tx_count": 1000,
+    "total_value": 1.6292063693636367e+20,
+    "avg_tx_value": 1.6292063693636368e+17,
+    "wallet_lifetime_days": 407,
+    "days_since_last_tx": 3053,
+    "tx_per_day": 2.457,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8324fa247756a9d2be9d16884f620e65a142e514",
+    "tx_count": 214,
+    "total_value": 198931862.946,
+    "avg_tx_value": 929588.1446,
+    "wallet_lifetime_days": 1915,
+    "days_since_last_tx": 21,
+    "tx_per_day": 0.1117,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x509990f49c9be1f8d4faa06c586586cb412a97d5",
+    "tx_count": 5,
+    "total_value": 378414.3527,
+    "avg_tx_value": 75682.8705,
+    "wallet_lifetime_days": 85,
+    "days_since_last_tx": 1003,
+    "tx_per_day": 0.0588,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x88f41a0288169e0a9a44d09e11e940ea0c7cbc92",
+    "tx_count": 17,
+    "total_value": 309788.0806,
+    "avg_tx_value": 18222.8283,
+    "wallet_lifetime_days": 2682,
+    "days_since_last_tx": 147,
+    "tx_per_day": 0.0063,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7cf661a4cd88171b972b351ec910f767bbd77b2c",
+    "tx_count": 5,
+    "total_value": 385.0881,
+    "avg_tx_value": 77.0176,
+    "wallet_lifetime_days": 885,
+    "days_since_last_tx": 596,
+    "tx_per_day": 0.0056,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3f6033241f355b01d91dc334c77b58270bf0e54d",
+    "tx_count": 47,
+    "total_value": 2404.9999,
+    "avg_tx_value": 51.1702,
+    "wallet_lifetime_days": 1115,
+    "days_since_last_tx": 1724,
+    "tx_per_day": 0.0422,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xdb796ac2b3e9754511ae5478f79f0fbaa5632837",
+    "tx_count": 1,
+    "total_value": 99.9287,
+    "avg_tx_value": 99.9287,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2052,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xdebc137650933776038204df1ecd15f3b59855dd",
+    "tx_count": 55,
+    "total_value": 43624.5089,
+    "avg_tx_value": 793.1729,
+    "wallet_lifetime_days": 823,
+    "days_since_last_tx": 74,
+    "tx_per_day": 0.0668,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x21dddb54130831b40a034785f66039bbbb46a64c",
+    "tx_count": 608,
+    "total_value": 1219452150.3831,
+    "avg_tx_value": 2005677.8789,
+    "wallet_lifetime_days": 2431,
+    "days_since_last_tx": 44,
+    "tx_per_day": 0.2501,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xad862684e007effbddf8905b9b7b15cbfaebb766",
+    "tx_count": 702,
+    "total_value": 1.1874042957790513e+18,
+    "avg_tx_value": 1691459110796369.2,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 884,
+    "tx_per_day": 702.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6c11c151adc437db6b95968997ab8caa0d7188d0",
+    "tx_count": 250,
+    "total_value": 2070522.1863,
+    "avg_tx_value": 8282.0887,
+    "wallet_lifetime_days": 2935,
+    "days_since_last_tx": 70,
+    "tx_per_day": 0.0852,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x086866b5cfedd487fed33e27c04b0d9fbb9f22e7",
+    "tx_count": 189,
+    "total_value": 80696694669.4776,
+    "avg_tx_value": 426966638.4628,
+    "wallet_lifetime_days": 1035,
+    "days_since_last_tx": 88,
+    "tx_per_day": 0.1826,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x146b7ee6d5dc9dcc14bbd3fa969354a2eb24cfce",
+    "tx_count": 13,
+    "total_value": 34.8223,
+    "avg_tx_value": 2.6786,
+    "wallet_lifetime_days": 150,
+    "days_since_last_tx": 2427,
+    "tx_per_day": 0.0867,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1a50a6238eb67285ccd4df17f75cce430baae2a4",
+    "tx_count": 784,
+    "total_value": 9.188421214647499e+19,
+    "avg_tx_value": 1.1719925018683035e+17,
+    "wallet_lifetime_days": 2576,
+    "days_since_last_tx": 133,
+    "tx_per_day": 0.3043,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9696f59e4d72e237be84ffd425dcad154bf96976",
+    "tx_count": 1000,
+    "total_value": 8180.1045,
+    "avg_tx_value": 8.1801,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1692,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x13be6f993977e84cf6f63a311ce55d90c064a521",
+    "tx_count": 857,
+    "total_value": 1.5496213287762752e+18,
+    "avg_tx_value": 1808192915724942.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 911,
+    "tx_per_day": 857.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xab8fd4c773f79eb6fce87c0612b0473b2a408e70",
+    "tx_count": 413,
+    "total_value": 20886722392.9825,
+    "avg_tx_value": 50573177.707,
+    "wallet_lifetime_days": 1627,
+    "days_since_last_tx": 25,
+    "tx_per_day": 0.2538,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x4967c8e1dcdd06f67416e95c9ab79a2a7458eef7",
+    "tx_count": 13,
+    "total_value": 720548.2915,
+    "avg_tx_value": 55426.7917,
+    "wallet_lifetime_days": 499,
+    "days_since_last_tx": 158,
+    "tx_per_day": 0.0261,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbd14b5ac99f227dcbaf7ac958786507a6ed82f7f",
+    "tx_count": 13,
+    "total_value": 153.3333,
+    "avg_tx_value": 11.7949,
+    "wallet_lifetime_days": 178,
+    "days_since_last_tx": 2414,
+    "tx_per_day": 0.073,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x84ddb331e23e35d5b8c8b2a562fdb243f1e09269",
+    "tx_count": 4,
+    "total_value": 0.6,
+    "avg_tx_value": 0.15,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1579,
+    "tx_per_day": 4.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xe533c36039adc07de8b7f313c88f7f482383008a",
+    "tx_count": 198,
+    "total_value": 42098345.3814,
+    "avg_tx_value": 212617.906,
+    "wallet_lifetime_days": 1230,
+    "days_since_last_tx": 1587,
+    "tx_per_day": 0.161,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xca4822e327c37ad211b8792d75fd3e2717d27996",
+    "tx_count": 154,
+    "total_value": 81031.029,
+    "avg_tx_value": 526.1755,
+    "wallet_lifetime_days": 997,
+    "days_since_last_tx": 52,
+    "tx_per_day": 0.1545,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xaaed87c14490380fdbc17a863a4538297a49590c",
+    "tx_count": 42,
+    "total_value": 1924.6089,
+    "avg_tx_value": 45.824,
+    "wallet_lifetime_days": 267,
+    "days_since_last_tx": 1746,
+    "tx_per_day": 0.1573,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8ef180811d70c3050d9adb9e216119395fd62ac3",
+    "tx_count": 7,
+    "total_value": 9.7752,
+    "avg_tx_value": 1.3965,
+    "wallet_lifetime_days": 41,
+    "days_since_last_tx": 1119,
+    "tx_per_day": 0.1707,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0000000012a0592c154d552c410030e724b2ea00",
+    "tx_count": 1000,
+    "total_value": 914652.7884,
+    "avg_tx_value": 914.6528,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1383,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb631651cb570ba0c0d696bd5e4860cbd214f20a0",
+    "tx_count": 1000,
+    "total_value": 7.563009173803429e+20,
+    "avg_tx_value": 7.563009173803429e+17,
+    "wallet_lifetime_days": 773,
+    "days_since_last_tx": 1989,
+    "tx_per_day": 1.2937,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc4ee769b1a4ec76a86d8c1f5f005b289c6bf17e9",
+    "tx_count": 19,
+    "total_value": 550.105,
+    "avg_tx_value": 28.9529,
+    "wallet_lifetime_days": 30,
+    "days_since_last_tx": 2545,
+    "tx_per_day": 0.6333,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfd339662d322061a7deb2fd64993fbefcc76b33b",
+    "tx_count": 1,
+    "total_value": 99.8,
+    "avg_tx_value": 99.8,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2103,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xdb0a714614b915e6d37e907f23bd3a531c0febc7",
+    "tx_count": 17,
+    "total_value": 94.1645,
+    "avg_tx_value": 5.5391,
+    "wallet_lifetime_days": 85,
+    "days_since_last_tx": 2544,
+    "tx_per_day": 0.2,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x25a6920a8125b36701b250363e555b58eba7e09e",
+    "tx_count": 1,
+    "total_value": 261.958,
+    "avg_tx_value": 261.958,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2070,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x448a5065aebb8e423f0896e6c5d525c040f59af3",
+    "tx_count": 1000,
+    "total_value": 34302.113,
+    "avg_tx_value": 34.3021,
+    "wallet_lifetime_days": 57,
+    "days_since_last_tx": 2887,
+    "tx_per_day": 17.5439,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2d3a974c72388ca573d381e699155dd0a3661598",
+    "tx_count": 3,
+    "total_value": 15.0469,
+    "avg_tx_value": 5.0156,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2622,
+    "tx_per_day": 3.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x03f1bfd41f2b0a3bd9d806a72239994e2d83c797",
+    "tx_count": 1000,
+    "total_value": 4.2566996198780576e+17,
+    "avg_tx_value": 425669961987805.75,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 907,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3cd05701369c1b78a866773ca602c9969b263bc5",
+    "tx_count": 446,
+    "total_value": 2111365.8356,
+    "avg_tx_value": 4734.0041,
+    "wallet_lifetime_days": 2506,
+    "days_since_last_tx": 431,
+    "tx_per_day": 0.178,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x454fffa695dc7fe61e4253aaa26275fccc4986ba",
+    "tx_count": 173,
+    "total_value": 140421093.2084,
+    "avg_tx_value": 811682.6197,
+    "wallet_lifetime_days": 1090,
+    "days_since_last_tx": 265,
+    "tx_per_day": 0.1587,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc9c01bc57186a5f0981c4e6f4884beaeb562e532",
+    "tx_count": 358,
+    "total_value": 150000000272067.0,
+    "avg_tx_value": 418994414167.7849,
+    "wallet_lifetime_days": 2622,
+    "days_since_last_tx": 300,
+    "tx_per_day": 0.1365,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3a7fcdc1fa3cc36827822d13e63f2a3f424ae5c0",
+    "tx_count": 2,
+    "total_value": 2.53,
+    "avg_tx_value": 1.265,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1776,
+    "tx_per_day": 2.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa03a1df24e7ccde0869ed0387a0418de04d0b2c7",
+    "tx_count": 15,
+    "total_value": 6410429480.9201,
+    "avg_tx_value": 427361965.3947,
+    "wallet_lifetime_days": 945,
+    "days_since_last_tx": 143,
+    "tx_per_day": 0.0159,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0f416bc2d310a1c32bc1081cf354c15fd10d4802",
+    "tx_count": 68,
+    "total_value": 3161.9101,
+    "avg_tx_value": 46.4987,
+    "wallet_lifetime_days": 449,
+    "days_since_last_tx": 1765,
+    "tx_per_day": 0.1514,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9dda7e70587da40324621b13b158db1c9f0e5d0d",
+    "tx_count": 350,
+    "total_value": 526433491.2259,
+    "avg_tx_value": 1504095.6892,
+    "wallet_lifetime_days": 13,
+    "days_since_last_tx": 351,
+    "tx_per_day": 26.9231,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xeefd4ec15437568210e77181a3f61c3201f8554e",
+    "tx_count": 143,
+    "total_value": 522.2193,
+    "avg_tx_value": 3.6519,
+    "wallet_lifetime_days": 963,
+    "days_since_last_tx": 1795,
+    "tx_per_day": 0.1485,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x672aaf0fe34f6b781d1c915d2feaec60162de42f",
+    "tx_count": 1000,
+    "total_value": 8.657152166015383e+17,
+    "avg_tx_value": 865715216601538.2,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 894,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8f8e8b3c4de76a31971fe6a87297d8f703be8570",
+    "tx_count": 1000,
+    "total_value": 63089921.0641,
+    "avg_tx_value": 63089.9211,
+    "wallet_lifetime_days": 150,
+    "days_since_last_tx": 2417,
+    "tx_per_day": 6.6667,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd04b5f64cc6f01b89bcf05c8d2286e9ba744ef85",
+    "tx_count": 526,
+    "total_value": 2.7388747700057866e+18,
+    "avg_tx_value": 5206986254763853.0,
+    "wallet_lifetime_days": 1883,
+    "days_since_last_tx": 826,
+    "tx_per_day": 0.2793,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa43c01f5106ce315db2fb726028cc75b0ad1ddc7",
+    "tx_count": 610,
+    "total_value": 141424891.1398,
+    "avg_tx_value": 231844.0838,
+    "wallet_lifetime_days": 1835,
+    "days_since_last_tx": 113,
+    "tx_per_day": 0.3324,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x48b04d2a05b6b604d8d5223fd1984f191ded51af",
+    "tx_count": 1000,
+    "total_value": 6118.7288,
+    "avg_tx_value": 6.1187,
+    "wallet_lifetime_days": 122,
+    "days_since_last_tx": 2497,
+    "tx_per_day": 8.1967,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb6ab87acba2b3bb7da71ba324a2040eccf208ff3",
+    "tx_count": 1000,
+    "total_value": 6958753.73,
+    "avg_tx_value": 6958.7537,
+    "wallet_lifetime_days": 27,
+    "days_since_last_tx": 347,
+    "tx_per_day": 37.037,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0dd62f2ef67df9b0a8fa7334a52322a9ef07ca99",
+    "tx_count": 2,
+    "total_value": 5.0472,
+    "avg_tx_value": 2.5236,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2622,
+    "tx_per_day": 2.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x34aa3f359a9d614239015126635ce7732c18fdf3",
+    "tx_count": 1000,
+    "total_value": 5.000000000005279e+17,
+    "avg_tx_value": 500000000000527.9,
+    "wallet_lifetime_days": 1503,
+    "days_since_last_tx": 1604,
+    "tx_per_day": 0.6653,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x086d295e9394f0eaae4c3e33edf136cb87c0394b",
+    "tx_count": 1,
+    "total_value": 199.824,
+    "avg_tx_value": 199.824,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1962,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x65427d1513f61aa204c6c99f59f93f5900197cc3",
+    "tx_count": 3,
+    "total_value": 0.0121,
+    "avg_tx_value": 0.004,
+    "wallet_lifetime_days": 1163,
+    "days_since_last_tx": 267,
+    "tx_per_day": 0.0026,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf5170739922d9b4ccf8f3fda21d13f271406924f",
+    "tx_count": 125,
+    "total_value": 23255721172.7407,
+    "avg_tx_value": 186045769.3819,
+    "wallet_lifetime_days": 1683,
+    "days_since_last_tx": 54,
+    "tx_per_day": 0.0743,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x328aa28213a75c4ea9ed4cd96e8d095170a10187",
+    "tx_count": 11,
+    "total_value": 1670511232.3048,
+    "avg_tx_value": 151864657.4823,
+    "wallet_lifetime_days": 852,
+    "days_since_last_tx": 112,
+    "tx_per_day": 0.0129,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x4961861222420bbe4a8656ed621ea26fac50b6b4",
+    "tx_count": 1,
+    "total_value": 98750273.0,
+    "avg_tx_value": 98750273.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 421,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb8eeca44e0f64c037e121cea337cf494d408ef12",
+    "tx_count": 3,
+    "total_value": 1.3635,
+    "avg_tx_value": 0.4545,
+    "wallet_lifetime_days": 19,
+    "days_since_last_tx": 2633,
+    "tx_per_day": 0.1579,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x86627d1f70a2e2e8bf35803d4be90a7d104a55ef",
+    "tx_count": 79,
+    "total_value": 6.8137,
+    "avg_tx_value": 0.0862,
+    "wallet_lifetime_days": 1314,
+    "days_since_last_tx": 139,
+    "tx_per_day": 0.0601,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x46436f1fa2f9d77b146cde18d545ae3ed28057c1",
+    "tx_count": 138,
+    "total_value": 128045.0901,
+    "avg_tx_value": 927.863,
+    "wallet_lifetime_days": 1800,
+    "days_since_last_tx": 757,
+    "tx_per_day": 0.0767,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x41f8fe315493a85f68eb9a77eaaa740402502924",
+    "tx_count": 176,
+    "total_value": 73015.6133,
+    "avg_tx_value": 414.8614,
+    "wallet_lifetime_days": 1524,
+    "days_since_last_tx": 22,
+    "tx_per_day": 0.1155,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x408a5bb8591cbe6b68678b66ca96516acb18c0e3",
+    "tx_count": 1000,
+    "total_value": 1.667100806909719e+18,
+    "avg_tx_value": 1667100806909719.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 889,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7a0e841abc23fc519190f756eab2a7e5f1245679",
+    "tx_count": 755,
+    "total_value": 1.202935840027644e+18,
+    "avg_tx_value": 1593292503347872.8,
+    "wallet_lifetime_days": 2080,
+    "days_since_last_tx": 381,
+    "tx_per_day": 0.363,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x84e719e4aaccf7bf70760dbf34983c9b880bb4a6",
+    "tx_count": 135,
+    "total_value": 2876.6715,
+    "avg_tx_value": 21.3087,
+    "wallet_lifetime_days": 1394,
+    "days_since_last_tx": 80,
+    "tx_per_day": 0.0968,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xc06768cc873c0219c1e8eff6a339c1a9f45f84dc",
+    "tx_count": 185,
+    "total_value": 1.3915989592055555e+17,
+    "avg_tx_value": 752215653624624.6,
+    "wallet_lifetime_days": 2179,
+    "days_since_last_tx": 365,
+    "tx_per_day": 0.0849,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa90a55af4f5c76c9e6c3d22a8dec7d6de0fb1388",
+    "tx_count": 376,
+    "total_value": 85.0324,
+    "avg_tx_value": 0.2262,
+    "wallet_lifetime_days": 147,
+    "days_since_last_tx": 2453,
+    "tx_per_day": 2.5578,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfa8403f2784d9511f7776e60c1a94aa6841c681a",
+    "tx_count": 30,
+    "total_value": 2573.7812,
+    "avg_tx_value": 85.7927,
+    "wallet_lifetime_days": 289,
+    "days_since_last_tx": 105,
+    "tx_per_day": 0.1038,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8efd8dfc9ff9130cb57bbe062ccf5b4c52e1654f",
+    "tx_count": 6,
+    "total_value": 104.0717,
+    "avg_tx_value": 17.3453,
+    "wallet_lifetime_days": 4,
+    "days_since_last_tx": 2548,
+    "tx_per_day": 1.5,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6dee3d87cc9ff16df02b0da3fce5ad90b3bb08bd",
+    "tx_count": 118,
+    "total_value": 11.4682,
+    "avg_tx_value": 0.0972,
+    "wallet_lifetime_days": 816,
+    "days_since_last_tx": 574,
+    "tx_per_day": 0.1446,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0c08a5193a42e22d154f927bb93050b8b2ceb16a",
+    "tx_count": 501,
+    "total_value": 306110403983.0975,
+    "avg_tx_value": 610998810.3455,
+    "wallet_lifetime_days": 1156,
+    "days_since_last_tx": 47,
+    "tx_per_day": 0.4334,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x2c5713746efb794a435bd1b790d911051ab8d04e",
+    "tx_count": 433,
+    "total_value": 9.489623877428591e+17,
+    "avg_tx_value": 2191599047904986.5,
+    "wallet_lifetime_days": 3053,
+    "days_since_last_tx": 81,
+    "tx_per_day": 0.1418,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x682c44db0f80fbc67c2c34058269e402cab149d0",
+    "tx_count": 1,
+    "total_value": 0.02,
+    "avg_tx_value": 0.02,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 57,
+    "tx_per_day": 1.0,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xb7625573f98f436554fde189bba8f1cdb57a6b97",
+    "tx_count": 105,
+    "total_value": 1.8440633531208176e+17,
+    "avg_tx_value": 1756250812496016.8,
+    "wallet_lifetime_days": 1068,
+    "days_since_last_tx": 1523,
+    "tx_per_day": 0.0983,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3c1cc48446b69d657db2192f246e2f5ca84e44dd",
+    "tx_count": 251,
+    "total_value": 239454.315,
+    "avg_tx_value": 954.0013,
+    "wallet_lifetime_days": 872,
+    "days_since_last_tx": 1749,
+    "tx_per_day": 0.2878,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x404c439cae3208255cb98cabfcef4c4aac03f37e",
+    "tx_count": 72,
+    "total_value": 868.1726,
+    "avg_tx_value": 12.058,
+    "wallet_lifetime_days": 1163,
+    "days_since_last_tx": 1468,
+    "tx_per_day": 0.0619,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x797e7ab7ef80d8ef317ae0f594cddc5c4ab25f71",
+    "tx_count": 11,
+    "total_value": 1075994.444,
+    "avg_tx_value": 97817.6767,
+    "wallet_lifetime_days": 1097,
+    "days_since_last_tx": 661,
+    "tx_per_day": 0.01,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x97402249515994cc0d22092d3375033ad0ea438a",
+    "tx_count": 1000,
+    "total_value": 1.9023584000262636e+20,
+    "avg_tx_value": 1.9023584000262637e+17,
+    "wallet_lifetime_days": 10,
+    "days_since_last_tx": 2170,
+    "tx_per_day": 100.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x42ccf4f456d7c7febf274242caccd74aaa0a53d7",
+    "tx_count": 442,
+    "total_value": 1.10503292517077e+22,
+    "avg_tx_value": 2.5000744913365836e+19,
+    "wallet_lifetime_days": 2387,
+    "days_since_last_tx": 142,
+    "tx_per_day": 0.1852,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6f52603b8c3c3f55825e5d05ae7a2958a1482c20",
+    "tx_count": 5,
+    "total_value": 6.316,
+    "avg_tx_value": 1.2632,
+    "wallet_lifetime_days": 6,
+    "days_since_last_tx": 883,
+    "tx_per_day": 0.8333,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x99368a5d78d9b8a69fcf87ff36ab9cbab26c9565",
+    "tx_count": 17,
+    "total_value": 175010867.0926,
+    "avg_tx_value": 10294756.8878,
+    "wallet_lifetime_days": 1163,
+    "days_since_last_tx": 287,
+    "tx_per_day": 0.0146,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd85d422317640106599128b19b40b3e8137875a3",
+    "tx_count": 15,
+    "total_value": 397787.2346,
+    "avg_tx_value": 26519.149,
+    "wallet_lifetime_days": 628,
+    "days_since_last_tx": 1247,
+    "tx_per_day": 0.0239,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xecbc2901efd668a049ec86e847c3a70552d128a7",
+    "tx_count": 213,
+    "total_value": 1.314409494910846e+18,
+    "avg_tx_value": 6170936595825568.0,
+    "wallet_lifetime_days": 1420,
+    "days_since_last_tx": 1221,
+    "tx_per_day": 0.15,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x73fa9df99faaa8d110c5afd917355eba0f993362",
+    "tx_count": 667,
+    "total_value": 3.7232630247532986e+17,
+    "avg_tx_value": 558210348538725.44,
+    "wallet_lifetime_days": 2082,
+    "days_since_last_tx": 731,
+    "tx_per_day": 0.3204,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x808a023b72260170c95d831f589a1ae0dca1e43e",
+    "tx_count": 1000,
+    "total_value": 1876712258.758,
+    "avg_tx_value": 1876712.2588,
+    "wallet_lifetime_days": 1803,
+    "days_since_last_tx": 1818,
+    "tx_per_day": 0.5546,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfc778fcf3a159f2ef4b9c32f2a05557597955520",
+    "tx_count": 188,
+    "total_value": 3.8734968735194107e+18,
+    "avg_tx_value": 2.060370677403942e+16,
+    "wallet_lifetime_days": 1811,
+    "days_since_last_tx": 1492,
+    "tx_per_day": 0.1038,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x92ee9a917a96be108619dcaf07a749d3f2e06f46",
+    "tx_count": 104,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 259,
+    "days_since_last_tx": 21,
+    "tx_per_day": 0.4015,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x353304f7766644604a3ea960f67cc447a6a916fa",
+    "tx_count": 786,
+    "total_value": 5106743.0406,
+    "avg_tx_value": 6497.1286,
+    "wallet_lifetime_days": 1418,
+    "days_since_last_tx": 52,
+    "tx_per_day": 0.5543,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x452f73ae79b9fad0eb53c888ce51f678c0c14273",
+    "tx_count": 48,
+    "total_value": 1.0946,
+    "avg_tx_value": 0.0228,
+    "wallet_lifetime_days": 386,
+    "days_since_last_tx": 879,
+    "tx_per_day": 0.1244,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5f820d4f5b01e5b39faee4b91bdfec53c4d299a8",
+    "tx_count": 108,
+    "total_value": 2684.8929,
+    "avg_tx_value": 24.8601,
+    "wallet_lifetime_days": 306,
+    "days_since_last_tx": 2401,
+    "tx_per_day": 0.3529,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbb15c6b3c408cf96dfc624df88b45293eb796412",
+    "tx_count": 4,
+    "total_value": 60005.0066,
+    "avg_tx_value": 15001.2516,
+    "wallet_lifetime_days": 72,
+    "days_since_last_tx": 1063,
+    "tx_per_day": 0.0556,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf964d5f96542b35e5a253400e9b86f351cdee842",
+    "tx_count": 42,
+    "total_value": 12.0545,
+    "avg_tx_value": 0.287,
+    "wallet_lifetime_days": 528,
+    "days_since_last_tx": 611,
+    "tx_per_day": 0.0795,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x705637f340667ee03efda280c8f054976a5dbaf6",
+    "tx_count": 98,
+    "total_value": 150.088,
+    "avg_tx_value": 1.5315,
+    "wallet_lifetime_days": 256,
+    "days_since_last_tx": 1937,
+    "tx_per_day": 0.3828,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbb50690db3897ca5b1f63cff6e0c061b93f9bfbd",
+    "tx_count": 733,
+    "total_value": 6964072883.0477,
+    "avg_tx_value": 9500781.5594,
+    "wallet_lifetime_days": 1916,
+    "days_since_last_tx": 24,
+    "tx_per_day": 0.3826,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x0d281ba2b73b33f22c5241478eae9d1008e66c3f",
+    "tx_count": 1000,
+    "total_value": 13545.2068,
+    "avg_tx_value": 13.5452,
+    "wallet_lifetime_days": 147,
+    "days_since_last_tx": 319,
+    "tx_per_day": 6.8027,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x01227d77ce8edbd4fc1baffca53c50a74710937c",
+    "tx_count": 1,
+    "total_value": 239.9985,
+    "avg_tx_value": 239.9985,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 199,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd74f68128cecfb50e2ddfce6f290e30a55211518",
+    "tx_count": 1000,
+    "total_value": 3069756819787441.5,
+    "avg_tx_value": 3069756819787.4414,
+    "wallet_lifetime_days": 822,
+    "days_since_last_tx": 823,
+    "tx_per_day": 1.2165,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcd8f976a4f5ba1f577adf7666ea2c5389d3ccd53",
+    "tx_count": 11,
+    "total_value": 1.2088,
+    "avg_tx_value": 0.1099,
+    "wallet_lifetime_days": 8,
+    "days_since_last_tx": 2655,
+    "tx_per_day": 1.375,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0000000000000000000000000000000000000000",
+    "tx_count": 1000,
+    "total_value": 1.0044226434675596e+16,
+    "avg_tx_value": 10044226434675.596,
+    "wallet_lifetime_days": 296,
+    "days_since_last_tx": 3386,
+    "tx_per_day": 3.3784,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc72b737e4106726254a39049d97e41f56c9b7885",
+    "tx_count": 84,
+    "total_value": 1830815364.3071,
+    "avg_tx_value": 21795421.0037,
+    "wallet_lifetime_days": 1709,
+    "days_since_last_tx": 45,
+    "tx_per_day": 0.0492,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x82b4db1565c888274fb9d76636816d5a3f651b8b",
+    "tx_count": 14,
+    "total_value": 510710.1335,
+    "avg_tx_value": 36479.2953,
+    "wallet_lifetime_days": 100,
+    "days_since_last_tx": 2346,
+    "tx_per_day": 0.14,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa676af8a22fcac6b3b94f7d0c971e8b715e82b5c",
+    "tx_count": 25,
+    "total_value": 109.0748,
+    "avg_tx_value": 4.363,
+    "wallet_lifetime_days": 580,
+    "days_since_last_tx": 777,
+    "tx_per_day": 0.0431,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfa0a319c84dccfc84d3316d800722b3c6d3e8dc2",
+    "tx_count": 42,
+    "total_value": 2023090.3559,
+    "avg_tx_value": 48168.818,
+    "wallet_lifetime_days": 879,
+    "days_since_last_tx": 1686,
+    "tx_per_day": 0.0478,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0ba48b0aea8f86423254b787461ca35c2496f2d0",
+    "tx_count": 1000,
+    "total_value": 4649798252051358.0,
+    "avg_tx_value": 4649798252051.358,
+    "wallet_lifetime_days": 445,
+    "days_since_last_tx": 995,
+    "tx_per_day": 2.2472,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf96ee9907dcf2fa04ce9a2f736e7f73a56c408a5",
+    "tx_count": 531,
+    "total_value": 56410800471776.445,
+    "avg_tx_value": 106235029137.0555,
+    "wallet_lifetime_days": 129,
+    "days_since_last_tx": 334,
+    "tx_per_day": 4.1163,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbae23964d9dc2bf913d488a428f49cce8a85b2e7",
+    "tx_count": 1000,
+    "total_value": 821231218.0493,
+    "avg_tx_value": 821231.218,
+    "wallet_lifetime_days": 327,
+    "days_since_last_tx": 303,
+    "tx_per_day": 3.0581,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x000c911446782e01dfd673f5194026176c08cc36",
+    "tx_count": 17,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 4,
+    "days_since_last_tx": 224,
+    "tx_per_day": 4.25,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x4feb4ac714d209485d3a378923481660d8b051c1",
+    "tx_count": 173,
+    "total_value": 2891.0661,
+    "avg_tx_value": 16.7114,
+    "wallet_lifetime_days": 1153,
+    "days_since_last_tx": 1596,
+    "tx_per_day": 0.15,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+    "tx_count": 1000,
+    "total_value": 10847275.1618,
+    "avg_tx_value": 10847.2752,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2821,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf173214c720f58e03e194085b1db28b50acdeead",
+    "tx_count": 1000,
+    "total_value": 146494.4427,
+    "avg_tx_value": 146.4944,
+    "wallet_lifetime_days": 146,
+    "days_since_last_tx": 2469,
+    "tx_per_day": 6.8493,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf40776c7a3dce579e73322d6ed43bf37a0b23c61",
+    "tx_count": 1000,
+    "total_value": 5.114466756095501e+17,
+    "avg_tx_value": 511446675609550.06,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 893,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7d8e6cfb1b8709139631cac4cc458f63611ffdf8",
+    "tx_count": 469,
+    "total_value": 6.702718041941195e+18,
+    "avg_tx_value": 1.4291509684309584e+16,
+    "wallet_lifetime_days": 1931,
+    "days_since_last_tx": 693,
+    "tx_per_day": 0.2429,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5ce19e1cd9a62a47f6dc4209ff1e7fc948a337fa",
+    "tx_count": 1,
+    "total_value": 0.0174,
+    "avg_tx_value": 0.0174,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1163,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xbbbfc46566e5f0302cef913af8c8f423070ce6a1",
+    "tx_count": 1000,
+    "total_value": 7.725545607592123e+19,
+    "avg_tx_value": 7.725545607592123e+16,
+    "wallet_lifetime_days": 233,
+    "days_since_last_tx": 2033,
+    "tx_per_day": 4.2918,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6828f7b592046a03349d6f1dc6e56091d4d949d0",
+    "tx_count": 1,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 54,
+    "tx_per_day": 1.0,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x4e0daa6d7db4e9ff602b0fc3a1b463b489882bfd",
+    "tx_count": 1,
+    "total_value": 299.8196,
+    "avg_tx_value": 299.8196,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2010,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcde5d48fca07f9c52300d2e65632dd71ed169b90",
+    "tx_count": 1000,
+    "total_value": 2780270302956.9165,
+    "avg_tx_value": 2780270302.9569,
+    "wallet_lifetime_days": 54,
+    "days_since_last_tx": 419,
+    "tx_per_day": 18.5185,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xe66b31678d6c16e9ebf358268a790b763c133750",
+    "tx_count": 1000,
+    "total_value": 213017599743.0855,
+    "avg_tx_value": 213017599.7431,
+    "wallet_lifetime_days": 6,
+    "days_since_last_tx": 1661,
+    "tx_per_day": 166.6667,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc923948ff28d4d50570a5271a1974120d217da30",
+    "tx_count": 56,
+    "total_value": 13833.4141,
+    "avg_tx_value": 247.0253,
+    "wallet_lifetime_days": 1907,
+    "days_since_last_tx": 482,
+    "tx_per_day": 0.0294,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x682ca1907985ec881dc2f9059918fb2f450849d0",
+    "tx_count": 4,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 23,
+    "days_since_last_tx": 30,
+    "tx_per_day": 0.1739,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xbfa24fabc7157d6a6ce3f58ef30440d1e055fb8c",
+    "tx_count": 56,
+    "total_value": 20742.2628,
+    "avg_tx_value": 370.3976,
+    "wallet_lifetime_days": 106,
+    "days_since_last_tx": 356,
+    "tx_per_day": 0.5283,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xe8aea1bba7aec9b7a4522e6c2a96327964c217cb",
+    "tx_count": 683,
+    "total_value": 420841935.4844,
+    "avg_tx_value": 616166.8162,
+    "wallet_lifetime_days": 2474,
+    "days_since_last_tx": 89,
+    "tx_per_day": 0.2761,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x38699d04656ff537ef8671b6b595402ebdbdf6f4",
+    "tx_count": 39,
+    "total_value": 363991848.8133,
+    "avg_tx_value": 9333124.3285,
+    "wallet_lifetime_days": 1176,
+    "days_since_last_tx": 297,
+    "tx_per_day": 0.0332,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb0944c873cea3e9975c20791261dba58472fe9d4",
+    "tx_count": 42,
+    "total_value": 0.7561,
+    "avg_tx_value": 0.018,
+    "wallet_lifetime_days": 1199,
+    "days_since_last_tx": 328,
+    "tx_per_day": 0.035,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x66f0f68e5b93fba873ae63aaf3cf81854c86401f",
+    "tx_count": 1000,
+    "total_value": 1.2905384341097906e+24,
+    "avg_tx_value": 1.2905384341097905e+21,
+    "wallet_lifetime_days": 1621,
+    "days_since_last_tx": 964,
+    "tx_per_day": 0.6169,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x985c55399c990a5fe7b6713c43c298348884c7f5",
+    "tx_count": 1,
+    "total_value": 900.0,
+    "avg_tx_value": 900.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 64,
+    "tx_per_day": 1.0,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xd60f7e134d129b39cce0a72a839925a08ec149fa",
+    "tx_count": 3,
+    "total_value": 281637.9032,
+    "avg_tx_value": 93879.3011,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1136,
+    "tx_per_day": 3.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xba0111f5ec1b6f2f092e9730f5f64840f3b42c95",
+    "tx_count": 277,
+    "total_value": 401225.9735,
+    "avg_tx_value": 1448.4692,
+    "wallet_lifetime_days": 3112,
+    "days_since_last_tx": 36,
+    "tx_per_day": 0.089,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x8995909dc0960fc9c75b6031d683124a4016825b",
+    "tx_count": 1,
+    "total_value": 13346000.0,
+    "avg_tx_value": 13346000.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 239,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6c5c90b46048f71e9c0a8b231e5ddc9726ad7d1d",
+    "tx_count": 120,
+    "total_value": 1227649255.8939,
+    "avg_tx_value": 10230410.4658,
+    "wallet_lifetime_days": 1747,
+    "days_since_last_tx": 30,
+    "tx_per_day": 0.0687,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x1370f50b7deb4f39d03169bda02ff423085e2a48",
+    "tx_count": 46,
+    "total_value": 10615.5044,
+    "avg_tx_value": 230.7718,
+    "wallet_lifetime_days": 1737,
+    "days_since_last_tx": 1151,
+    "tx_per_day": 0.0265,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf348b733daa2e1cda395f4f3c82d81086feedf71",
+    "tx_count": 263,
+    "total_value": 5177889378.1234,
+    "avg_tx_value": 19687792.3123,
+    "wallet_lifetime_days": 1878,
+    "days_since_last_tx": 22,
+    "tx_per_day": 0.14,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x5f3c3a2ffd79c40fc9561d0f9a88f5168ad97f09",
+    "tx_count": 1,
+    "total_value": 0.001,
+    "avg_tx_value": 0.001,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 23,
+    "tx_per_day": 1.0,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x2c67eb139eb0b1416c3e743a106eb68d8442d627",
+    "tx_count": 519,
+    "total_value": 253251.439,
+    "avg_tx_value": 487.9604,
+    "wallet_lifetime_days": 2105,
+    "days_since_last_tx": 626,
+    "tx_per_day": 0.2466,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0d281f33f05868b05a35724e9dca7e0cfec76c3f",
+    "tx_count": 9,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 26,
+    "days_since_last_tx": 230,
+    "tx_per_day": 0.3462,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2f06def2e8ceb2a02537c0555ee84ae2175e4df1",
+    "tx_count": 60,
+    "total_value": 141011306.3105,
+    "avg_tx_value": 2350188.4385,
+    "wallet_lifetime_days": 1461,
+    "days_since_last_tx": 886,
+    "tx_per_day": 0.0411,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x67d3ccbd1d81e7b1427b70d94454e0039271d237",
+    "tx_count": 1000,
+    "total_value": 7.774685593596764e+20,
+    "avg_tx_value": 7.774685593596764e+17,
+    "wallet_lifetime_days": 1119,
+    "days_since_last_tx": 2179,
+    "tx_per_day": 0.8937,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1111111254fb6c44bac0bed2854e76f90643097d",
+    "tx_count": 1000,
+    "total_value": 99832771993.4642,
+    "avg_tx_value": 99832771.9935,
+    "wallet_lifetime_days": 3,
+    "days_since_last_tx": 1522,
+    "tx_per_day": 333.3333,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0697c68075b42488fecb8656e6084642f2490dc2",
+    "tx_count": 141,
+    "total_value": 5201752790901526.0,
+    "avg_tx_value": 36891863765259.05,
+    "wallet_lifetime_days": 399,
+    "days_since_last_tx": 494,
+    "tx_per_day": 0.3534,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf294ad275652606ebb60931ea7520a3fe328fb78",
+    "tx_count": 26,
+    "total_value": 32228.9642,
+    "avg_tx_value": 1239.5755,
+    "wallet_lifetime_days": 941,
+    "days_since_last_tx": 1716,
+    "tx_per_day": 0.0276,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfca4685b947bbe0f6a2c444f30b6d69dfa5613e8",
+    "tx_count": 26,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 9,
+    "days_since_last_tx": 224,
+    "tx_per_day": 2.8889,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xabd0419f3a4e4a2b7fd5215c1c55e12a8876dc98",
+    "tx_count": 77,
+    "total_value": 5632.7025,
+    "avg_tx_value": 73.152,
+    "wallet_lifetime_days": 960,
+    "days_since_last_tx": 63,
+    "tx_per_day": 0.0802,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xbb7922e53098d144d60f827ef34d1e768e579bbf",
+    "tx_count": 7,
+    "total_value": 8.4757,
+    "avg_tx_value": 1.2108,
+    "wallet_lifetime_days": 1005,
+    "days_since_last_tx": 364,
+    "tx_per_day": 0.007,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x010afb8548a5d1a3a3d62f58ca0a5a1329974206",
+    "tx_count": 1000,
+    "total_value": 1.8548867702616035e+19,
+    "avg_tx_value": 1.8548867702616036e+16,
+    "wallet_lifetime_days": 683,
+    "days_since_last_tx": 2203,
+    "tx_per_day": 1.4641,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2dcf543cfa76634bfb4bbf00d9900caa77198da4",
+    "tx_count": 89,
+    "total_value": 2579567124199.29,
+    "avg_tx_value": 28983900271.9021,
+    "wallet_lifetime_days": 550,
+    "days_since_last_tx": 853,
+    "tx_per_day": 0.1618,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5ed992e6516919d46442b8b46cd477b016b5eeef",
+    "tx_count": 4,
+    "total_value": 0.549,
+    "avg_tx_value": 0.1372,
+    "wallet_lifetime_days": 11,
+    "days_since_last_tx": 880,
+    "tx_per_day": 0.3636,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3a1eb7c601b5677490cd6694f7a5d487866a7571",
+    "tx_count": 837,
+    "total_value": 3.651357122036469e+17,
+    "avg_tx_value": 436243383755850.56,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 892,
+    "tx_per_day": 837.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xe4e48ee538c088c0430c840baf55eaed6a256227",
+    "tx_count": 146,
+    "total_value": 12954787.6843,
+    "avg_tx_value": 88731.4225,
+    "wallet_lifetime_days": 1434,
+    "days_since_last_tx": 1120,
+    "tx_per_day": 0.1018,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xab33e884ec8fed4f5867246e4300228f3d666561",
+    "tx_count": 1000,
+    "total_value": 814387.02,
+    "avg_tx_value": 814.387,
+    "wallet_lifetime_days": 26,
+    "days_since_last_tx": 2445,
+    "tx_per_day": 38.4615,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x83cd0a39c327c8f760706c7874d3631fecce3aad",
+    "tx_count": 3,
+    "total_value": 133350.9203,
+    "avg_tx_value": 44450.3068,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1136,
+    "tx_per_day": 3.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb93cc658a680340be2ed08e5ee1a69a7a023b23e",
+    "tx_count": 111,
+    "total_value": 324896.8315,
+    "avg_tx_value": 2926.9985,
+    "wallet_lifetime_days": 660,
+    "days_since_last_tx": 558,
+    "tx_per_day": 0.1682,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x12e8123822485229efaa08cd244e27e533eb1f4b",
+    "tx_count": 107,
+    "total_value": 297467.764,
+    "avg_tx_value": 2780.0726,
+    "wallet_lifetime_days": 2622,
+    "days_since_last_tx": 38,
+    "tx_per_day": 0.0408,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xe7c6951568180c8be86fdcf92d687d06c3d5282c",
+    "tx_count": 2,
+    "total_value": 2184.0,
+    "avg_tx_value": 1092.0,
+    "wallet_lifetime_days": 23,
+    "days_since_last_tx": 2637,
+    "tx_per_day": 0.087,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcf634501ebd606a688e127b6c6b7000cf748c1e8",
+    "tx_count": 13,
+    "total_value": 11.4214,
+    "avg_tx_value": 0.8786,
+    "wallet_lifetime_days": 26,
+    "days_since_last_tx": 2142,
+    "tx_per_day": 0.5,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc662606edb852ba22f75680f7b2c89767014520e",
+    "tx_count": 350,
+    "total_value": 2.1693494292362406e+18,
+    "avg_tx_value": 6198141226389259.0,
+    "wallet_lifetime_days": 2548,
+    "days_since_last_tx": 437,
+    "tx_per_day": 0.1374,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9e3213238453adfff49aa147d37a924b9c8d6c5d",
+    "tx_count": 25,
+    "total_value": 16915.5098,
+    "avg_tx_value": 676.6204,
+    "wallet_lifetime_days": 1446,
+    "days_since_last_tx": 1485,
+    "tx_per_day": 0.0173,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x13d21ed5abb72003fdfa1c0e9438c343ea637454",
+    "tx_count": 20,
+    "total_value": 287.11,
+    "avg_tx_value": 14.3555,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 364,
+    "tx_per_day": 20.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x77feecc45fa31f2639d4c1cee0ccbf138387d79b",
+    "tx_count": 73,
+    "total_value": 28252.1131,
+    "avg_tx_value": 387.0152,
+    "wallet_lifetime_days": 1112,
+    "days_since_last_tx": 1475,
+    "tx_per_day": 0.0656,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6fc48de8f167456b7aa27dd4ecfabba329ea623d",
+    "tx_count": 1000,
+    "total_value": 13343.3824,
+    "avg_tx_value": 13.3434,
+    "wallet_lifetime_days": 2,
+    "days_since_last_tx": 1631,
+    "tx_per_day": 500.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa73e1c3fcff149799bbf0a85a044ac1e84d4c5d7",
+    "tx_count": 85,
+    "total_value": 109248072.0423,
+    "avg_tx_value": 1285271.4358,
+    "wallet_lifetime_days": 1240,
+    "days_since_last_tx": 430,
+    "tx_per_day": 0.0685,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x58109cb11df3147e48205a1a38c214352f11d6f1",
+    "tx_count": 13,
+    "total_value": 19691.7619,
+    "avg_tx_value": 1514.7509,
+    "wallet_lifetime_days": 38,
+    "days_since_last_tx": 1131,
+    "tx_per_day": 0.3421,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcc3e1e9703ca6e5e0ae297f364de049fcbf6c98c",
+    "tx_count": 245,
+    "total_value": 513087152.8217,
+    "avg_tx_value": 2094233.2768,
+    "wallet_lifetime_days": 1017,
+    "days_since_last_tx": 1842,
+    "tx_per_day": 0.2409,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa53a13a80d72a855481de5211e7654fabdfe3526",
+    "tx_count": 1000,
+    "total_value": 6.407254065938392e+19,
+    "avg_tx_value": 6.407254065938392e+16,
+    "wallet_lifetime_days": 845,
+    "days_since_last_tx": 2194,
+    "tx_per_day": 1.1834,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x51e0cc87024d90c3bc624fabcdf9bcf0178e6021",
+    "tx_count": 34,
+    "total_value": 189918.2688,
+    "avg_tx_value": 5585.8314,
+    "wallet_lifetime_days": 612,
+    "days_since_last_tx": 463,
+    "tx_per_day": 0.0556,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfe9e8709d3215310075d67e3ed32a380ccf451c8",
+    "tx_count": 606,
+    "total_value": 137898441121.3954,
+    "avg_tx_value": 227555183.3686,
+    "wallet_lifetime_days": 1577,
+    "days_since_last_tx": 1379,
+    "tx_per_day": 0.3843,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0cc69ef823d606b9983171c3f19740517781ef07",
+    "tx_count": 1000,
+    "total_value": 7413.6287,
+    "avg_tx_value": 7.4136,
+    "wallet_lifetime_days": 25,
+    "days_since_last_tx": 712,
+    "tx_per_day": 40.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb02df54b40afd492a13813a4864efb099c258618",
+    "tx_count": 9,
+    "total_value": 0.0001,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 32,
+    "days_since_last_tx": 180,
+    "tx_per_day": 0.2812,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x01229f3ba4ea8d8ec33256bc2b07b6ce315c937c",
+    "tx_count": 6,
+    "total_value": 239.9985,
+    "avg_tx_value": 39.9998,
+    "wallet_lifetime_days": 85,
+    "days_since_last_tx": 201,
+    "tx_per_day": 0.0706,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa28a2a9a813174f66da1dbcf00dd2bdad03030ee",
+    "tx_count": 28,
+    "total_value": 10.2497,
+    "avg_tx_value": 0.3661,
+    "wallet_lifetime_days": 771,
+    "days_since_last_tx": 465,
+    "tx_per_day": 0.0363,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x17a3a975c967c70a5fa5c2479cd24a3033f03717",
+    "tx_count": 1000,
+    "total_value": 2490140.5969,
+    "avg_tx_value": 2490.1406,
+    "wallet_lifetime_days": 478,
+    "days_since_last_tx": 1034,
+    "tx_per_day": 2.0921,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x69774a6383a61f969754db1be15b4e1f0910cf00",
+    "tx_count": 1000,
+    "total_value": 133499.9328,
+    "avg_tx_value": 133.4999,
+    "wallet_lifetime_days": 493,
+    "days_since_last_tx": 303,
+    "tx_per_day": 2.0284,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x70ef09d3c3776e5d0ae415081e093d96e234e4e3",
+    "tx_count": 253,
+    "total_value": 13992480.7328,
+    "avg_tx_value": 55306.248,
+    "wallet_lifetime_days": 2404,
+    "days_since_last_tx": 241,
+    "tx_per_day": 0.1052,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1f2be440a818b3b87069af6ec20528c6dbec429b",
+    "tx_count": 41,
+    "total_value": 1537.1414,
+    "avg_tx_value": 37.4913,
+    "wallet_lifetime_days": 333,
+    "days_since_last_tx": 1743,
+    "tx_per_day": 0.1231,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc64b62c5122a9f4333e5faf8be095e6189775dca",
+    "tx_count": 1000,
+    "total_value": 305846106.0545,
+    "avg_tx_value": 305846.1061,
+    "wallet_lifetime_days": 1504,
+    "days_since_last_tx": 1566,
+    "tx_per_day": 0.6649,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x550890336f0b5afd85fc355351372253e2491a6e",
+    "tx_count": 35,
+    "total_value": 30279.2891,
+    "avg_tx_value": 865.1225,
+    "wallet_lifetime_days": 1993,
+    "days_since_last_tx": 684,
+    "tx_per_day": 0.0176,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x60b60df49098f928c95c22d00b98e56701b6dca5",
+    "tx_count": 70,
+    "total_value": 10073998921.5111,
+    "avg_tx_value": 143914270.3073,
+    "wallet_lifetime_days": 252,
+    "days_since_last_tx": 688,
+    "tx_per_day": 0.2778,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf32834f14f80c89cb31a82907bf474fda15fce99",
+    "tx_count": 39,
+    "total_value": 53755526196.975,
+    "avg_tx_value": 1378346825.5635,
+    "wallet_lifetime_days": 1132,
+    "days_since_last_tx": 28,
+    "tx_per_day": 0.0345,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x29bc5fb2b177dd3432661ee5c67e7d7008350fcf",
+    "tx_count": 20,
+    "total_value": 178214.2731,
+    "avg_tx_value": 8910.7137,
+    "wallet_lifetime_days": 554,
+    "days_since_last_tx": 1900,
+    "tx_per_day": 0.0361,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa360ae4bd5935555325eaac2d6df01051c4c3eab",
+    "tx_count": 1000,
+    "total_value": 5.293309184585146e+18,
+    "avg_tx_value": 5293309184585146.0,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 889,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x14e3145b0774e0f0d22eae72513b53c133add670",
+    "tx_count": 55,
+    "total_value": 1211.3246,
+    "avg_tx_value": 22.0241,
+    "wallet_lifetime_days": 1247,
+    "days_since_last_tx": 51,
+    "tx_per_day": 0.0441,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x5cdea56a4fb7d0c3bc1348c8dc392024cbf70e3a",
+    "tx_count": 1,
+    "total_value": 99.8895,
+    "avg_tx_value": 99.8895,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2135,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xfcb76c73d0cb9ad509988e883df00ef0e5d85e0e",
+    "tx_count": 962,
+    "total_value": 88936764624.9123,
+    "avg_tx_value": 92449859.2775,
+    "wallet_lifetime_days": 1365,
+    "days_since_last_tx": 25,
+    "tx_per_day": 0.7048,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x5e79a38034862733788eefdc3ffedb094444c482",
+    "tx_count": 704,
+    "total_value": 3505657.2269,
+    "avg_tx_value": 4979.6267,
+    "wallet_lifetime_days": 2814,
+    "days_since_last_tx": 133,
+    "tx_per_day": 0.2502,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x062799b5a2fc009f5d8b48360a05c497d8be8364",
+    "tx_count": 379,
+    "total_value": 1.8323027857268322e+19,
+    "avg_tx_value": 4.834571994002196e+16,
+    "wallet_lifetime_days": 1190,
+    "days_since_last_tx": 1517,
+    "tx_per_day": 0.3185,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5cb29f86e9fb0f174754ab4522f3168f48c43228",
+    "tx_count": 736,
+    "total_value": 4963321025883.38,
+    "avg_tx_value": 6743642698.2111,
+    "wallet_lifetime_days": 381,
+    "days_since_last_tx": 33,
+    "tx_per_day": 1.9318,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xb1ffc72a5d930da3f48d7b7703f9a1a1acb3cf23",
+    "tx_count": 146,
+    "total_value": 4.419606995178381e+19,
+    "avg_tx_value": 3.0271280788893024e+17,
+    "wallet_lifetime_days": 1141,
+    "days_since_last_tx": 1210,
+    "tx_per_day": 0.128,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0d7f2e43b77deb6e922640a4b7edc5b7e874dd70",
+    "tx_count": 227,
+    "total_value": 2.254498147426753e+21,
+    "avg_tx_value": 9.931709900558383e+18,
+    "wallet_lifetime_days": 1146,
+    "days_since_last_tx": 1142,
+    "tx_per_day": 0.1981,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf8a099545c0f2c3d3e547c048c2f5589e53b54d5",
+    "tx_count": 1000,
+    "total_value": 9.462304902124673e+18,
+    "avg_tx_value": 9462304902124674.0,
+    "wallet_lifetime_days": 1134,
+    "days_since_last_tx": 1826,
+    "tx_per_day": 0.8818,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x26cc0eab6cb650b0db4d0d0da8cb5bf69f4ad692",
+    "tx_count": 1000,
+    "total_value": 521063.5554,
+    "avg_tx_value": 521.0636,
+    "wallet_lifetime_days": 148,
+    "days_since_last_tx": 2369,
+    "tx_per_day": 6.7568,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x011b34d1e9307363d45e8a90319e9ed4cd29108e",
+    "tx_count": 4,
+    "total_value": 969093873.6112,
+    "avg_tx_value": 242273468.4028,
+    "wallet_lifetime_days": 419,
+    "days_since_last_tx": 2012,
+    "tx_per_day": 0.0095,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xef75d606fb8b08d1ee5800fd379843ca53464ce1",
+    "tx_count": 393,
+    "total_value": 5032981.849,
+    "avg_tx_value": 12806.5696,
+    "wallet_lifetime_days": 1598,
+    "days_since_last_tx": 33,
+    "tx_per_day": 0.2459,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x7700db16c7bb3d0e939a6bb852e033d4529e4649",
+    "tx_count": 2,
+    "total_value": 20.1029,
+    "avg_tx_value": 10.0515,
+    "wallet_lifetime_days": 7,
+    "days_since_last_tx": 880,
+    "tx_per_day": 0.2857,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcb77688b914023fe00a3c20d36245421476ed961",
+    "tx_count": 30,
+    "total_value": 30087.6753,
+    "avg_tx_value": 1002.9225,
+    "wallet_lifetime_days": 3,
+    "days_since_last_tx": 2440,
+    "tx_per_day": 10.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7df126321c3c84415462a605bdaf94189af3581c",
+    "tx_count": 95,
+    "total_value": 1.0494020000001432e+17,
+    "avg_tx_value": 1104633684210677.0,
+    "wallet_lifetime_days": 451,
+    "days_since_last_tx": 2189,
+    "tx_per_day": 0.2106,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x13b053f017b6c68e089267ffc3f10ee92ed95a79",
+    "tx_count": 395,
+    "total_value": 2.4821650282391454e+19,
+    "avg_tx_value": 6.283962096807963e+16,
+    "wallet_lifetime_days": 2133,
+    "days_since_last_tx": 47,
+    "tx_per_day": 0.1852,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x47d07b958b78ebad104159795f95c480fc22540b",
+    "tx_count": 1,
+    "total_value": 99.9438,
+    "avg_tx_value": 99.9438,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1830,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5bfadd091798052fe34a6e360f73810fabc7b0d7",
+    "tx_count": 12,
+    "total_value": 29121.0803,
+    "avg_tx_value": 2426.7567,
+    "wallet_lifetime_days": 761,
+    "days_since_last_tx": 1895,
+    "tx_per_day": 0.0158,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0122fc149335d7eab1ff7aedc69591ad5e9b937c",
+    "tx_count": 17,
+    "total_value": 0.0001,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 150,
+    "days_since_last_tx": 262,
+    "tx_per_day": 0.1133,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x91473aa589e79cc54b19b4e3181068c90de7db9f",
+    "tx_count": 2,
+    "total_value": 309.8121,
+    "avg_tx_value": 154.906,
+    "wallet_lifetime_days": 106,
+    "days_since_last_tx": 1874,
+    "tx_per_day": 0.0189,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8333c40d51c9ee616c1a6bf7f145d1df1d047a88",
+    "tx_count": 22,
+    "total_value": 317595.4439,
+    "avg_tx_value": 14436.1565,
+    "wallet_lifetime_days": 412,
+    "days_since_last_tx": 1749,
+    "tx_per_day": 0.0534,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x88c69b2461dde98147c4a7a7e3ba40f5b3ad8a3c",
+    "tx_count": 213,
+    "total_value": 1475311.6384,
+    "avg_tx_value": 6926.3457,
+    "wallet_lifetime_days": 2889,
+    "days_since_last_tx": 65,
+    "tx_per_day": 0.0737,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xa7d496a19af4a08db830eaee60f1564b079d1d15",
+    "tx_count": 659,
+    "total_value": 23137056.603,
+    "avg_tx_value": 35109.3423,
+    "wallet_lifetime_days": 1931,
+    "days_since_last_tx": 50,
+    "tx_per_day": 0.3413,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x251e93d51c5f2a1e60b7bc90bc8b2534b68e8f40",
+    "tx_count": 1000,
+    "total_value": 1378099.2814,
+    "avg_tx_value": 1378.0993,
+    "wallet_lifetime_days": 228,
+    "days_since_last_tx": 2114,
+    "tx_per_day": 4.386,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x129f5058afa493fc262f4dfad734daa5b3ddee1c",
+    "tx_count": 761,
+    "total_value": 1070966422436.2827,
+    "avg_tx_value": 1407314615.5536,
+    "wallet_lifetime_days": 1906,
+    "days_since_last_tx": 51,
+    "tx_per_day": 0.3993,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x1b5e5071f1dc16c419f7b7b0c78e19b26f1dc4cc",
+    "tx_count": 20,
+    "total_value": 6.465281768148224e+17,
+    "avg_tx_value": 3.232640884074112e+16,
+    "wallet_lifetime_days": 1283,
+    "days_since_last_tx": 1859,
+    "tx_per_day": 0.0156,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc1ddfee14473e860e308dfc1492833a34d4cb40c",
+    "tx_count": 1000,
+    "total_value": 10851.1538,
+    "avg_tx_value": 10.8512,
+    "wallet_lifetime_days": 493,
+    "days_since_last_tx": 1032,
+    "tx_per_day": 2.0284,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa592cb9bde3df473e762545d54f6b89b36afde4c",
+    "tx_count": 14,
+    "total_value": 42546669.4163,
+    "avg_tx_value": 3039047.8155,
+    "wallet_lifetime_days": 386,
+    "days_since_last_tx": 2067,
+    "tx_per_day": 0.0363,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa404ca401a770edbcfefd64efd05af9e30e1bf3a",
+    "tx_count": 7,
+    "total_value": 14002482.2,
+    "avg_tx_value": 2000354.6,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1136,
+    "tx_per_day": 7.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd3676a29a689ae0f8be40a1801f6e74cf5119d05",
+    "tx_count": 115,
+    "total_value": 94.4979,
+    "avg_tx_value": 0.8217,
+    "wallet_lifetime_days": 291,
+    "days_since_last_tx": 94,
+    "tx_per_day": 0.3952,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x9c3bcb281da563565b84535798ffaab653b06f05",
+    "tx_count": 8,
+    "total_value": 720546804.1367,
+    "avg_tx_value": 90068350.5171,
+    "wallet_lifetime_days": 415,
+    "days_since_last_tx": 2016,
+    "tx_per_day": 0.0193,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6ff0106d34feee8a8acf2e7b9168480f86b82e2f",
+    "tx_count": 364,
+    "total_value": 1822784.762,
+    "avg_tx_value": 5007.6504,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1381,
+    "tx_per_day": 364.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcde569f80888d9760d6500e6a069723a7db59b90",
+    "tx_count": 99,
+    "total_value": 37560525136.2775,
+    "avg_tx_value": 379399243.8008,
+    "wallet_lifetime_days": 293,
+    "days_since_last_tx": 22,
+    "tx_per_day": 0.3379,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x4abb1a3be69ec705610ab65ec906f4f355935c29",
+    "tx_count": 1000,
+    "total_value": 827024.5826,
+    "avg_tx_value": 827.0246,
+    "wallet_lifetime_days": 197,
+    "days_since_last_tx": 221,
+    "tx_per_day": 5.0761,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x26445ffc935376abde8daa44921aa2ff2c19ad1a",
+    "tx_count": 9,
+    "total_value": 827.6848,
+    "avg_tx_value": 91.965,
+    "wallet_lifetime_days": 18,
+    "days_since_last_tx": 1989,
+    "tx_per_day": 0.5,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7ec94de928159d76d71da0d5b7f07567c183d47c",
+    "tx_count": 119,
+    "total_value": 1.4053030189350738e+19,
+    "avg_tx_value": 1.1809269066681293e+17,
+    "wallet_lifetime_days": 710,
+    "days_since_last_tx": 1424,
+    "tx_per_day": 0.1676,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x587486675d9f16f6e98b1c5fe28a222cf40917e6",
+    "tx_count": 93,
+    "total_value": 96793.0516,
+    "avg_tx_value": 1040.7855,
+    "wallet_lifetime_days": 2537,
+    "days_since_last_tx": 576,
+    "tx_per_day": 0.0367,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf304bd0c49bc333a9b4f6c7fb1462081104b6544",
+    "tx_count": 96,
+    "total_value": 1732965.2436,
+    "avg_tx_value": 18051.7213,
+    "wallet_lifetime_days": 208,
+    "days_since_last_tx": 1046,
+    "tx_per_day": 0.4615,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x5ab1397bd2c40f64bb6c38e0d2ed49c432350d54",
+    "tx_count": 767,
+    "total_value": 6.186524043811026e+17,
+    "avg_tx_value": 806587228658543.1,
+    "wallet_lifetime_days": 2,
+    "days_since_last_tx": 888,
+    "tx_per_day": 383.5,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc048f19848e7319f7ca034fa83bfbcca59deaf94",
+    "tx_count": 483,
+    "total_value": 28250724605.1243,
+    "avg_tx_value": 58490113.0541,
+    "wallet_lifetime_days": 142,
+    "days_since_last_tx": 306,
+    "tx_per_day": 3.4014,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf1d291ba38be6d73ba57ec13c8cd9a8daa1c3ecf",
+    "tx_count": 172,
+    "total_value": 61015.6239,
+    "avg_tx_value": 354.742,
+    "wallet_lifetime_days": 1042,
+    "days_since_last_tx": 122,
+    "tx_per_day": 0.1651,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x275d43cf3bf5c9480969b233f6e46b9588c4707e",
+    "tx_count": 184,
+    "total_value": 2514184326901.4795,
+    "avg_tx_value": 13664045254.8993,
+    "wallet_lifetime_days": 509,
+    "days_since_last_tx": 393,
+    "tx_per_day": 0.3615,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x781b6eece2e7ba81cc8782956ffb7c286107cde9",
+    "tx_count": 161,
+    "total_value": 1.717982018171306e+17,
+    "avg_tx_value": 1067069576503916.8,
+    "wallet_lifetime_days": 511,
+    "days_since_last_tx": 1637,
+    "tx_per_day": 0.3151,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa37d5d1fe58bc3689b9a5ad44e47a65f897f5f8d",
+    "tx_count": 5,
+    "total_value": 99.9422,
+    "avg_tx_value": 19.9884,
+    "wallet_lifetime_days": 136,
+    "days_since_last_tx": 1961,
+    "tx_per_day": 0.0368,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x30a7378b1d10ffa663ac7c2fa5f54c0c8fb328ed",
+    "tx_count": 1000,
+    "total_value": 5019.7902,
+    "avg_tx_value": 5.0198,
+    "wallet_lifetime_days": 57,
+    "days_since_last_tx": 800,
+    "tx_per_day": 17.5439,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcd50042b27016e33421666be68e6ec3bd1784c77",
+    "tx_count": 811,
+    "total_value": 2069956024.5262,
+    "avg_tx_value": 2552350.2152,
+    "wallet_lifetime_days": 1780,
+    "days_since_last_tx": 397,
+    "tx_per_day": 0.4556,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2",
+    "tx_count": 1000,
+    "total_value": 12113709.9362,
+    "avg_tx_value": 12113.7099,
+    "wallet_lifetime_days": 119,
+    "days_since_last_tx": 2371,
+    "tx_per_day": 8.4034,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1d65b93b0e601a53cf93706b8e165d992b021e7b",
+    "tx_count": 479,
+    "total_value": 32000000080243.812,
+    "avg_tx_value": 66805845679.0059,
+    "wallet_lifetime_days": 23,
+    "days_since_last_tx": 21,
+    "tx_per_day": 20.8261,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xa15904ffbc7ab1000118908256d92437a55774ba",
+    "tx_count": 1000,
+    "total_value": 5.2852374171274176e+17,
+    "avg_tx_value": 528523741712741.75,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 909,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x0b32c3ff6eab9a8213bd1af5c862262d5f14d393",
+    "tx_count": 1000,
+    "total_value": 12335.9184,
+    "avg_tx_value": 12.3359,
+    "wallet_lifetime_days": 202,
+    "days_since_last_tx": 264,
+    "tx_per_day": 4.9505,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8f44e5d23fed310fac3c3dc62bda09f3eed066bb",
+    "tx_count": 7,
+    "total_value": 481.0267,
+    "avg_tx_value": 68.7181,
+    "wallet_lifetime_days": 17,
+    "days_since_last_tx": 135,
+    "tx_per_day": 0.4118,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x953b337e5bf80c41463cee33ba25a1a2830c47f0",
+    "tx_count": 48,
+    "total_value": 9.932337764662213e+18,
+    "avg_tx_value": 2.0692370343046275e+17,
+    "wallet_lifetime_days": 307,
+    "days_since_last_tx": 1813,
+    "tx_per_day": 0.1564,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1b75fc0b0ad3ed55dc85fe1e3577b9c9ee94d685",
+    "tx_count": 33,
+    "total_value": 120.7269,
+    "avg_tx_value": 3.6584,
+    "wallet_lifetime_days": 1437,
+    "days_since_last_tx": 52,
+    "tx_per_day": 0.023,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xe05a3d462ea5ad210600ed569c17d5866b4bb4af",
+    "tx_count": 144,
+    "total_value": 290027.4202,
+    "avg_tx_value": 2014.0793,
+    "wallet_lifetime_days": 1141,
+    "days_since_last_tx": 34,
+    "tx_per_day": 0.1262,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x6f416cc5b01267571099e8e37519fc897b6c2959",
+    "tx_count": 2,
+    "total_value": 99.933,
+    "avg_tx_value": 49.9665,
+    "wallet_lifetime_days": 91,
+    "days_since_last_tx": 1870,
+    "tx_per_day": 0.022,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd42340d5eea2deca7ac39d5677b8ee9b35c1744b",
+    "tx_count": 10,
+    "total_value": 10320.2964,
+    "avg_tx_value": 1032.0296,
+    "wallet_lifetime_days": 281,
+    "days_since_last_tx": 958,
+    "tx_per_day": 0.0356,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x09573ae6763c6cb25ce751a8609c25fcd213a7dc",
+    "tx_count": 15,
+    "total_value": 17.0783,
+    "avg_tx_value": 1.1386,
+    "wallet_lifetime_days": 2,
+    "days_since_last_tx": 361,
+    "tx_per_day": 7.5,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x62300d9cf871efebc388285ca4f6e3850db8bb99",
+    "tx_count": 55,
+    "total_value": 5837897.5791,
+    "avg_tx_value": 106143.5923,
+    "wallet_lifetime_days": 506,
+    "days_since_last_tx": 53,
+    "tx_per_day": 0.1087,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xf3b0073e3a7f747c7a38b36b805247b222c302a3",
+    "tx_count": 1000,
+    "total_value": 1.500187661435369e+16,
+    "avg_tx_value": 15001876614353.69,
+    "wallet_lifetime_days": 159,
+    "days_since_last_tx": 895,
+    "tx_per_day": 6.2893,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xf3b02c6df19e6d1fad2ce2b5a463c3cb253194e1",
+    "tx_count": 152,
+    "total_value": 471901.5307,
+    "avg_tx_value": 3104.6153,
+    "wallet_lifetime_days": 2708,
+    "days_since_last_tx": 74,
+    "tx_per_day": 0.0561,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x139309d7a0e1f8dda278a6ac91c1b18410e58e43",
+    "tx_count": 1,
+    "total_value": 99.9464,
+    "avg_tx_value": 99.9464,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1826,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x83326cec1af49ff85384e97f3ceb5b319bf5cf4c",
+    "tx_count": 221,
+    "total_value": 3.54476173104716e+20,
+    "avg_tx_value": 1.6039645841842353e+18,
+    "wallet_lifetime_days": 608,
+    "days_since_last_tx": 1591,
+    "tx_per_day": 0.3635,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x7daf6fd69f0f4937dd65c0c6316c299dbe896f83",
+    "tx_count": 11,
+    "total_value": 0.0,
+    "avg_tx_value": 0.0,
+    "wallet_lifetime_days": 31,
+    "days_since_last_tx": 26,
+    "tx_per_day": 0.3548,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x5e75f78a7e50121f0ad6440651c5567c0578d9b5",
+    "tx_count": 838,
+    "total_value": 9.781895283430307e+17,
+    "avg_tx_value": 1167290606614595.0,
+    "wallet_lifetime_days": 1750,
+    "days_since_last_tx": 252,
+    "tx_per_day": 0.4789,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x125c70b0cea6ec04348e4c8f2aa37577e0e08813",
+    "tx_count": 342,
+    "total_value": 453533605.2419,
+    "avg_tx_value": 1326121.6528,
+    "wallet_lifetime_days": 1121,
+    "days_since_last_tx": 69,
+    "tx_per_day": 0.3051,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x5d1db692e84acf7578792effbcd46bc4bc561e84",
+    "tx_count": 609,
+    "total_value": 1.4474948880796306e+18,
+    "avg_tx_value": 2376838896682480.5,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 882,
+    "tx_per_day": 609.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x37240fadb2eb139328f312c3cb6f1238b16cfbdf",
+    "tx_count": 1000,
+    "total_value": 7669.8517,
+    "avg_tx_value": 7.6699,
+    "wallet_lifetime_days": 94,
+    "days_since_last_tx": 762,
+    "tx_per_day": 10.6383,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x2cfdc3a7d7f597426f37fbae1c45a3d9f1c8b190",
+    "tx_count": 463,
+    "total_value": 1.9238014898771471e+18,
+    "avg_tx_value": 4155078811829691.5,
+    "wallet_lifetime_days": 2510,
+    "days_since_last_tx": 67,
+    "tx_per_day": 0.1845,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x0ce27c83f1497fe213c4910765453eaabc98dd4a",
+    "tx_count": 748,
+    "total_value": 216414822678.115,
+    "avg_tx_value": 289324629.2488,
+    "wallet_lifetime_days": 2514,
+    "days_since_last_tx": 148,
+    "tx_per_day": 0.2975,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x45d62dec3de327722dc2911c805cb754d3fbea6a",
+    "tx_count": 372,
+    "total_value": 23207.4001,
+    "avg_tx_value": 62.3855,
+    "wallet_lifetime_days": 439,
+    "days_since_last_tx": 343,
+    "tx_per_day": 0.8474,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3b2e298b401d1e11ce6ee82b54792ca435ce81ec",
+    "tx_count": 94,
+    "total_value": 8.55769853444667e+16,
+    "avg_tx_value": 910393461111347.9,
+    "wallet_lifetime_days": 2299,
+    "days_since_last_tx": 358,
+    "tx_per_day": 0.0409,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x19b8018a3a8898e5c40b6adde528a061f616ea6e",
+    "tx_count": 121,
+    "total_value": 452720.4212,
+    "avg_tx_value": 3741.4911,
+    "wallet_lifetime_days": 2397,
+    "days_since_last_tx": 37,
+    "tx_per_day": 0.0505,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xcdea95913990d2eb7868aa6b91a37f91ba269b90",
+    "tx_count": 2,
+    "total_value": 4.3651,
+    "avg_tx_value": 2.1826,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 326,
+    "tx_per_day": 2.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xefbc103259b500ebe6408fc7c91535b0e158e22b",
+    "tx_count": 451,
+    "total_value": 1280379914.0898,
+    "avg_tx_value": 2838979.8539,
+    "wallet_lifetime_days": 1844,
+    "days_since_last_tx": 25,
+    "tx_per_day": 0.2446,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xe0bf513ca86c49a51d511477d8b02ad101ff9584",
+    "tx_count": 89,
+    "total_value": 38702.4795,
+    "avg_tx_value": 434.8593,
+    "wallet_lifetime_days": 1212,
+    "days_since_last_tx": 643,
+    "tx_per_day": 0.0734,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc40c82d5917f74c97504c5de063f7c4eb3a01750",
+    "tx_count": 159,
+    "total_value": 378649288.9643,
+    "avg_tx_value": 2381442.069,
+    "wallet_lifetime_days": 1729,
+    "days_since_last_tx": 1126,
+    "tx_per_day": 0.092,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x694a870ec9dc814648afe4c3e0cb8d09f3130597",
+    "tx_count": 1,
+    "total_value": 99.8895,
+    "avg_tx_value": 99.8895,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2135,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x95e7cf5d4e76e07ff8cf35d7fb30df7658077b3c",
+    "tx_count": 166,
+    "total_value": 21215571214393.13,
+    "avg_tx_value": 127804645869.8381,
+    "wallet_lifetime_days": 1131,
+    "days_since_last_tx": 1812,
+    "tx_per_day": 0.1468,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be",
+    "tx_count": 1000,
+    "total_value": 2217753.5742,
+    "avg_tx_value": 2217.7536,
+    "wallet_lifetime_days": 5,
+    "days_since_last_tx": 3075,
+    "tx_per_day": 200.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x6dbe34c90110479229447791afb2935a0ac89eb2",
+    "tx_count": 1000,
+    "total_value": 12992761.2867,
+    "avg_tx_value": 12992.7613,
+    "wallet_lifetime_days": 102,
+    "days_since_last_tx": 316,
+    "tx_per_day": 9.8039,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa0de8288a53f10b02d2d5e76aac5ea48949e30a8",
+    "tx_count": 641,
+    "total_value": 710476.3777,
+    "avg_tx_value": 1108.3875,
+    "wallet_lifetime_days": 1575,
+    "days_since_last_tx": 1052,
+    "tx_per_day": 0.407,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc524d2a95f4b094604fbcaa117f0a8b1e0065d77",
+    "tx_count": 2,
+    "total_value": 0.0045,
+    "avg_tx_value": 0.0023,
+    "wallet_lifetime_days": 189,
+    "days_since_last_tx": 1239,
+    "tx_per_day": 0.0106,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x012259c7510e65b3acad37cbb4fd67eaac24937c",
+    "tx_count": 1000,
+    "total_value": 2971.8391,
+    "avg_tx_value": 2.9718,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 466,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd8572d48e78f62b1dd5ef6e470d8395199cec0d9",
+    "tx_count": 24,
+    "total_value": 2.3807,
+    "avg_tx_value": 0.0992,
+    "wallet_lifetime_days": 660,
+    "days_since_last_tx": 566,
+    "tx_per_day": 0.0364,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x16183be9f0c145fc6c24e1780211f51767382135",
+    "tx_count": 494,
+    "total_value": 16924.3268,
+    "avg_tx_value": 34.2598,
+    "wallet_lifetime_days": 273,
+    "days_since_last_tx": 1937,
+    "tx_per_day": 1.8095,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x372e2d6f74efa2c5a4c72dac4a31da09e8505995",
+    "tx_count": 66,
+    "total_value": 4390.5696,
+    "avg_tx_value": 66.5238,
+    "wallet_lifetime_days": 1505,
+    "days_since_last_tx": 1076,
+    "tx_per_day": 0.0439,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc29cf77f9ff6843cb50197371dc16c09d2daf3f2",
+    "tx_count": 3,
+    "total_value": 51.0009,
+    "avg_tx_value": 17.0003,
+    "wallet_lifetime_days": 1707,
+    "days_since_last_tx": 847,
+    "tx_per_day": 0.0018,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x89555a4f31b06faca197cdf60fd996f1ba783feb",
+    "tx_count": 86,
+    "total_value": 1320157.4511,
+    "avg_tx_value": 15350.668,
+    "wallet_lifetime_days": 1214,
+    "days_since_last_tx": 1141,
+    "tx_per_day": 0.0708,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xb028b84783a0381d51dcf0e8ef04b5e502958618",
+    "tx_count": 1000,
+    "total_value": 119433226041.4865,
+    "avg_tx_value": 119433226.0415,
+    "wallet_lifetime_days": 2,
+    "days_since_last_tx": 211,
+    "tx_per_day": 500.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x405a9b7568e0640afdae8b3c37182ef34467fc5f",
+    "tx_count": 213,
+    "total_value": 257389.4091,
+    "avg_tx_value": 1208.401,
+    "wallet_lifetime_days": 1731,
+    "days_since_last_tx": 885,
+    "tx_per_day": 0.1231,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8b1b0f049b9a7c76bd721b14d90359a3dee1f58d",
+    "tx_count": 296,
+    "total_value": 347736.4605,
+    "avg_tx_value": 1174.7853,
+    "wallet_lifetime_days": 1974,
+    "days_since_last_tx": 181,
+    "tx_per_day": 0.1499,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd92ca9f25a40bc5de00ae6861643bb36853752aa",
+    "tx_count": 1,
+    "total_value": 199.8877,
+    "avg_tx_value": 199.8877,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 2010,
+    "tx_per_day": 1.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x82aa7f697b9bc19f286d286d130405c0850a2e7b",
+    "tx_count": 970,
+    "total_value": 5.833215329074999e+17,
+    "avg_tx_value": 601362405059278.2,
+    "wallet_lifetime_days": 1886,
+    "days_since_last_tx": 691,
+    "tx_per_day": 0.5143,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1ccf451539db08459737393efb9b603bd4610b33",
+    "tx_count": 19,
+    "total_value": 9160.5909,
+    "avg_tx_value": 482.1364,
+    "wallet_lifetime_days": 432,
+    "days_since_last_tx": 899,
+    "tx_per_day": 0.044,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x228f5e15ea38866325bafcd308a513002b70d1a4",
+    "tx_count": 62,
+    "total_value": 646131.5152,
+    "avg_tx_value": 10421.4761,
+    "wallet_lifetime_days": 1902,
+    "days_since_last_tx": 39,
+    "tx_per_day": 0.0326,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xae7336fd7f2b6d81a67f510ed9d14a684b189f0a",
+    "tx_count": 47,
+    "total_value": 1284338081694.6724,
+    "avg_tx_value": 27326342163.7164,
+    "wallet_lifetime_days": 1699,
+    "days_since_last_tx": 29,
+    "tx_per_day": 0.0277,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x5f397b62502e255f68382791947d54c4b2d37f09",
+    "tx_count": 1000,
+    "total_value": 450590255.7795,
+    "avg_tx_value": 450590.2558,
+    "wallet_lifetime_days": 1145,
+    "days_since_last_tx": 649,
+    "tx_per_day": 0.8734,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1461da3e1b86ea1aa273ec32664758e5e192233a",
+    "tx_count": 939,
+    "total_value": 2158869.8912,
+    "avg_tx_value": 2299.116,
+    "wallet_lifetime_days": 225,
+    "days_since_last_tx": 21,
+    "tx_per_day": 4.1733,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x2428e76a98e6fc9a96b589f602e36c463abf7303",
+    "tx_count": 1000,
+    "total_value": 27750056.6654,
+    "avg_tx_value": 27750.0567,
+    "wallet_lifetime_days": 1565,
+    "days_since_last_tx": 28,
+    "tx_per_day": 0.639,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x0f3c2476fbf0ed09dff00ea7f4ef252dcc72e6f1",
+    "tx_count": 1000,
+    "total_value": 5.415608800342582e+19,
+    "avg_tx_value": 5.415608800342582e+16,
+    "wallet_lifetime_days": 665,
+    "days_since_last_tx": 2271,
+    "tx_per_day": 1.5038,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x95ff06bfc894445759bb70759be831950dda2441",
+    "tx_count": 139,
+    "total_value": 1970296610.3219,
+    "avg_tx_value": 14174795.7577,
+    "wallet_lifetime_days": 1988,
+    "days_since_last_tx": 137,
+    "tx_per_day": 0.0699,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x8685d09daaed62bdbcf91308561e9de873392ae7",
+    "tx_count": 88,
+    "total_value": 5.219728857187361e+17,
+    "avg_tx_value": 5931510064985638.0,
+    "wallet_lifetime_days": 2045,
+    "days_since_last_tx": 44,
+    "tx_per_day": 0.043,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x54da2a70951d4ff732e3dbfec1253a166f39d453",
+    "tx_count": 44,
+    "total_value": 23226182410.0788,
+    "avg_tx_value": 527867782.0472,
+    "wallet_lifetime_days": 330,
+    "days_since_last_tx": 1063,
+    "tx_per_day": 0.1333,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x1f8978b550c0291627d5604a84e76fc044c23fb5",
+    "tx_count": 28,
+    "total_value": 77520061615.1497,
+    "avg_tx_value": 2768573629.1125,
+    "wallet_lifetime_days": 571,
+    "days_since_last_tx": 2424,
+    "tx_per_day": 0.049,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xc44597cf35f98734788cd14758b298b9fc78d3b6",
+    "tx_count": 2,
+    "total_value": 0.0495,
+    "avg_tx_value": 0.0248,
+    "wallet_lifetime_days": 350,
+    "days_since_last_tx": 1316,
+    "tx_per_day": 0.0057,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x04b14b7b9722f9581e20024af6ebbfd455045b01",
+    "tx_count": 75,
+    "total_value": 1223888385.9497,
+    "avg_tx_value": 16318511.8127,
+    "wallet_lifetime_days": 1521,
+    "days_since_last_tx": 173,
+    "tx_per_day": 0.0493,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x4e0ac849c64b773156f607bce78fdc1823b6074d",
+    "tx_count": 22,
+    "total_value": 20532.2805,
+    "avg_tx_value": 933.2855,
+    "wallet_lifetime_days": 1652,
+    "days_since_last_tx": 47,
+    "tx_per_day": 0.0133,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x089300e3cd93dbc23c93cc9b8c237f829ce51b04",
+    "tx_count": 809,
+    "total_value": 2.640780519968843e+19,
+    "avg_tx_value": 3.264252805894738e+16,
+    "wallet_lifetime_days": 1568,
+    "days_since_last_tx": 24,
+    "tx_per_day": 0.5159,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0xf00b357f81fd33905f8c4e3fdeae84aba0e547df",
+    "tx_count": 1000,
+    "total_value": 5.641671094806731e+17,
+    "avg_tx_value": 564167109480673.1,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 896,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xa166e5595557abbd279180ff90ad77383b68d325",
+    "tx_count": 1000,
+    "total_value": 561772384.571,
+    "avg_tx_value": 561772.3846,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 1384,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xcffad3200574698b78f32232aa9d63eabd290703",
+    "tx_count": 1000,
+    "total_value": 11337757964756.703,
+    "avg_tx_value": 11337757964.7567,
+    "wallet_lifetime_days": 223,
+    "days_since_last_tx": 1355,
+    "tx_per_day": 4.4843,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd481f8dba3b7e64385fd2298aacf975ac3fa28a5",
+    "tx_count": 188,
+    "total_value": 20044001.8134,
+    "avg_tx_value": 106617.0309,
+    "wallet_lifetime_days": 1550,
+    "days_since_last_tx": 22,
+    "tx_per_day": 0.1213,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x9ddfc544ab950295b8ed72a2e4b0ade8736f354c",
+    "tx_count": 97,
+    "total_value": 14794770626.7924,
+    "avg_tx_value": 152523408.5236,
+    "wallet_lifetime_days": 1049,
+    "days_since_last_tx": 21,
+    "tx_per_day": 0.0925,
+    "churned": 0
+  },
+  {
+    "wallet_address": "0x606563f8dc27f316b77f22d14d9cd025b4f70469",
+    "tx_count": 1000,
+    "total_value": 8.663349504039586e+20,
+    "avg_tx_value": 8.663349504039587e+17,
+    "wallet_lifetime_days": 18,
+    "days_since_last_tx": 2207,
+    "tx_per_day": 55.5556,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x669f0ab96fd3beb68bc836bb874894bbb516331a",
+    "tx_count": 1000,
+    "total_value": 83663.0474,
+    "avg_tx_value": 83.663,
+    "wallet_lifetime_days": 50,
+    "days_since_last_tx": 3110,
+    "tx_per_day": 20.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0x4e1c31082dd541c206cee5461c5037d8b7c22de4",
+    "tx_count": 1000,
+    "total_value": 1.3013981908328847e+18,
+    "avg_tx_value": 1301398190832884.8,
+    "wallet_lifetime_days": 1,
+    "days_since_last_tx": 888,
+    "tx_per_day": 1000.0,
+    "churned": 1
+  },
+  {
+    "wallet_address": "0xd05955436368c9659b7a1bdf8f0427ca8c193b11",
+    "tx_count": 852,
+    "total_value": 6.86073006159659e+21,
+    "avg_tx_value": 8.052500072296466e+18,
+    "wallet_lifetime_days": 2841,
+    "days_since_last_tx": 124,
+    "tx_per_day": 0.2999,
+    "churned": 1
+  }
+]
