@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: stg_wallets
+    description: "Cleaned wallet base table for downstream analytics."
+    columns:
+      - name: wallet_address
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_transactions
+    description: "Cleaned transactions table for downstream analytics."
+    columns:
+      - name: tx_hash
+        tests:
+          - not_null
+          - unique
+      - name: wallet_address
+        tests:
+          - not_null
