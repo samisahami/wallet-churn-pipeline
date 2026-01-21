@@ -1,0 +1,54 @@
+version: 2
+
+models:
+  - name: wallet_churn_features
+    description: >
+      Feature table used for churn modeling at the wallet level.
+      One row per wallet with behavioral, monetary, and recency features.
+
+    columns:
+      - name: wallet_address
+        description: Unique blockchain wallet address
+        tests:
+          - not_null
+          - unique
+
+      - name: tx_count
+        description: Total number of transactions observed for the wallet
+        tests:
+          - not_null
+
+      - name: total_value
+        description: Total value transferred by the wallet
+        tests:
+          - not_null
+
+      - name: avg_tx_value
+        description: Average transaction value
+        tests:
+          - not_null
+
+      - name: wallet_lifetime_days
+        description: Number of days between first and last observed transaction
+        tests:
+          - not_null
+
+      - name: days_since_last_tx
+        description: Days since the most recent transaction
+        tests:
+          - not_null
+
+      - name: tx_per_day
+        description: Average transactions per active day
+        tests:
+          - not_null
+
+      - name: churned
+        description: >
+          Binary churn label.
+          1 = churned (inactive beyond threshold),
+          0 = active wallet
+        tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
