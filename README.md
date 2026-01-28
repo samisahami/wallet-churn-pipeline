@@ -76,3 +76,15 @@ wallet-churn-pipeline/
 
 \- Build Dune dashboard for on-chain analytics
 
+## Data Quality & Reliability
+
+This pipeline is designed with analytics-engineering best practices to ensure reliable downstream usage:
+
+- Deterministic feature transformations (no notebook state dependency)
+- Explicit churn definition applied consistently across models
+- Schema-aware analytics tables to prevent null primary keys and duplicated wallets
+- Reproducible feature logic suitable for automation and CI/CD extension
+
+The architecture is intentionally designed to support automated testing and deployment as a next step.
+
+
