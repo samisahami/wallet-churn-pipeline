@@ -28,6 +28,8 @@ This project demonstrates an analytics-engineering style workflow:
 - 🔗 **Live Dashboard (Dune):**  
   https://dune.com/samansahami/wallet-churn-and-activity-overview-cohort-based
 
+[![Wallet Churn Dashboard Preview](dashboard/wallet-churn-dashboard-screenshot.png)](https://dune.com/samansahami/wallet-churn-and-activity-overview-cohort-based)
+
 **What this shows:**
 - Cohort-level wallet engagement and activity trends
 - Inactivity buckets (0–30+ days) used to identify early churn risk
