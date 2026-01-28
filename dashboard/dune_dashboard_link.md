@@ -1,36 +1,32 @@
-\# Wallet Churn \& Activity Dashboard (Dune Analytics)
-
-
+# Wallet Churn \& Activity Dashboard (Dune Analytics)
 
 This project includes an interactive Dune Analytics dashboard that visualizes
 
 wallet engagement, activity distribution, and early churn risk for an Ethereum wallet cohort.
 
-
-
-\## 🔗 Live Dashboard
-
-
-
-👉 \*\*View on Dune:\*\*  
-
-https://dune.com/samansahami/wallet-churn-and-activity-overview-cohort-based
+**Why it matters:** Enables early identification of wallet churn risk and engagement decay patterns for Web3 growth & retention analysis.
 
 
 
-\## 📊 Dashboard Highlights
+## 🔗 Live Dashboard
+
+👉 **View on Dune:** https://dune.com/samansahami/wallet-churn-and-activity-overview-cohort-based
 
 
 
-\- Cohort-level active wallet tracking
+-## 📊 Dashboard Highlights
 
-\- Transaction volume trends over time
 
-\- Wallet inactivity distribution (0–30+ days)
 
-\- Early churn risk identification (≥15 days inactive)
+- Cohort-level active wallet tracking
 
-\- Executive KPI cards and analyst-level breakdowns
+- Transaction volume trends over time
+
+- Wallet inactivity distribution (0–30+ days)
+
+- Early churn risk identification (≥15 days inactive)
+
+- Executive KPI cards and analyst-ready breakdowns
 
 
 
@@ -38,13 +34,13 @@ https://dune.com/samansahami/wallet-churn-and-activity-overview-cohort-based
 
 
 
-This dashboard represents the \*\*final analytics layer\*\* of the pipeline:
+This dashboard represents the **final analytics layer** of the pipeline:
 
-\- Python ETL → raw transaction ingestion
+- Python ETL → raw transaction ingestion
 
-\- dbt-style transformations → analytics-ready tables
+- dbt-style transformations → analytics-ready tables
 
-\- Dune SQL → visualization \& business insights
+- Dune SQL → visualization \& business insights
 
 
 
