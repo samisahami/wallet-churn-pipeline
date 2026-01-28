@@ -20,6 +20,21 @@ This project demonstrates an analytics-engineering style workflow:
 
 \- Designed for Web3 / crypto analytics use cases
 
+## 📊 Dashboard & Insights
+
+- **Dune Analytics Dashboard:**  
+  [Wallet Churn & Activity Overview (Cohort-Based)](dashboard/dune_dashboard_link.md)
+
+- 🔗 **Live Dashboard (Dune):**  
+  https://dune.com/samansahami/wallet-churn-and-activity-overview-cohort-based
+
+**What this shows:**
+- Cohort-level wallet engagement and activity trends
+- Inactivity buckets (0–30+ days) used to identify early churn risk
+- KPI cards highlighting transactions, ETH volume, and gas usage
+- Early churn signals for wallets inactive ≥15 days
+
+> This dashboard represents the **final analytics layer** of the pipeline, consuming analytics-ready tables produced by the Python ETL and dbt-style transformations.
 
 
 \## Project Structure
